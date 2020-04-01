@@ -19,7 +19,7 @@
 <channel>
 <name>[COLOR crimson][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</thumbnail>
-<externallink>https://pastebin.com/raw/ExTp3aVn</externallink>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
 <fanart>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</fanart>
 <info>
 
@@ -28,7 +28,7 @@
 
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
 <thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
-<externallink>https://pastebin.com/raw/zmx3SWyX</externallink>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/inidice%20seriados</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/XtqfPVRaXJdQ6W8VQ9xKlRrXSB.jpg</fanart>
 <info>
 </channel>
