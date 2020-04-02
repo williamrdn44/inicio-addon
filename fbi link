@@ -52,3 +52,34 @@
 <info></info>
 </item>
 
+<item>
+<title>[COLOR white][B]episodio 7 [/COLOR][/B][COLOR yellow][B]legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37953b5642c49b8ed2122c2e75326adf2a88396f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]episodio 8 [/COLOR][/B][COLOR yellow][B]legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120fe7fb0f16e69111a39abd4278a10dd75719a0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]episodio 9 [/COLOR][/B][COLOR yellow][B]legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5db2c981867cf85b74bc7fd9c7698a9eb85757d1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]episodio 10 [/COLOR][/B][COLOR yellow][B]legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01a8dd3af631ed8baaffb58625ce647d3b6ef9b5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
