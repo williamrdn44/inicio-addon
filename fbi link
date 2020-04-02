@@ -1,19 +1,19 @@
 <channels>
 </channels><channel>
-<title>[COLOR silver][B] 1 temporada[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-****************************
+<name>[COLOR deeppink][B]1ª  Temporada[/B][/COLOR]</name>****************************
  
  
 <item>
-<title>[COLOR silver][B]episodio 1[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR white][B]episodio 1  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18e7474cf36834394e3ca2e4614c1fd344580ae9</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
 <info></info>
 </item>
 
+
 <item>
-<title>[COLOR silver][B]episodio 2[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR white][B]episodio 2 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27233ff0b30aa202e55285c9e4bfa8aa5466ee3d</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]episodio 3[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR white][B]episodio 3  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5d61d1b76acf30a9027e648f193768c6a0bfe6</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
@@ -29,7 +29,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]episodio 4[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR white][B]episodio 4[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c182cd9872eee84b2cf6b3562a8b614f28dfc6bd</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
@@ -37,7 +37,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]episodio 5 legendado[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR white][B]episodio5 legendado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f9c29f983d74f47ae48917233a08d0d444295c5</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
