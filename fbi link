@@ -1,10 +1,11 @@
 <channels>
 </channels><channel>
-<name>[COLOR deeppink][B]1ª  Temporada[/B][/COLOR]</name>****************************
+<title>[COLOR silver][B] 1 temporada[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+****************************
  
  
 <item>
-<title>[COLOR white][B] episodio 1 [/B][/COLOR]</title>
+<title>[COLOR silver][B]episodio 1[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18e7474cf36834394e3ca2e4614c1fd344580ae9</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
