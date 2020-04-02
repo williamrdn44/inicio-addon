@@ -83,3 +83,23 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
 <info></info>
 </item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B] 2  Temporada[/B][/COLOR]</name>****************************
+ 
+<item>
+<title>[COLOR white][B]episodio 1 [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:438e26fee07a95164973cff1c24289ffe2f0c1ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]episodio 2 [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1de147d2ea7a64184d34ddacdb96128a05da25be</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+<info></info>
+</item>
