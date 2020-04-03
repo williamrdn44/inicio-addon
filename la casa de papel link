@@ -1,1 +1,48 @@
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B] 1 Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:322aef81478a74d32305ee7fec60ce3d9293c418</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFfYZCyLhA4lS0Edg6hB3r2EOFW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5Io7Z1qEkCE3Zc2S8kgZS3aKacH.jpg</fanart>
+<info></info>
+</item>
+ 
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B] 2  Temporada[/B][/COLOR]</name>****************************
 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44469d737d9ec3b05558329f70e64c932ce362e7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFfYZCyLhA4lS0Edg6hB3r2EOFW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5Io7Z1qEkCE3Zc2S8kgZS3aKacH.jpg</fanart>
+<info></info>
+</item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B] 3  Temporada[/B][/COLOR]</name>****************************
+
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac42c26432f1915326f6a7394ca3174697600fc7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFfYZCyLhA4lS0Edg6hB3r2EOFW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5Io7Z1qEkCE3Zc2S8kgZS3aKacH.jpg</fanart>
+<info></info>
+</item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B] 4  Temporada[/B][/COLOR]</name>****************************
+
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74e224e745e45217a95b250413649bf4cb5059e2&dn=LAPUMiA.Org%20-%20La%20Casa%20de%20Papel%202020%20-%20S04%20(720p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFfYZCyLhA4lS0Edg6hB3r2EOFW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5Io7Z1qEkCE3Zc2S8kgZS3aKacH.jpg</fanart>
+<info></info>
+</item>
