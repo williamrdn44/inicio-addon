@@ -58,6 +58,14 @@
 </channel>
 
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Sherlock (2010)[/B][/COLOR][COLOR yellow][B][/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Sherlock%20(2010)%20link%20seri</externallink>
+<info></info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B]The Witcher (2019)[/B][/COLOR][COLOR yellow][B][/COLOR][/B]</name>
