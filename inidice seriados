@@ -13,11 +13,20 @@
  
 </channels><channel>
 <name>[COLOR cadetblue][B]LA CASA DE PAPEL [/B][/COLOR][COLOR yellow][B][/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQUqaflIFFjzrDu5PCHkFvaBvGq.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/piuRhGiQBYWgW668eSNJ2ug5uAO.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIyqVAyMQUmg0oaXh6nZoPG8Ev.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w220_and_h330_face/rjfcLu4OXfSyieT9O7p7KDESr4M.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/la%20casa%20de%20papel%20link</externallink>
 <info></info>
 </channel>
+ 
+ </channels><channel>
+<name>[COLOR cadetblue][B]Constantine (2014)[/B][/COLOR][COLOR yellow][B][/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQUqaflIFFjzrDu5PCHkFvaBvGq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/piuRhGiQBYWgW668eSNJ2ug5uAO.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Constantine%20(2014)%20link%20%20seri</externallink>
+<info></info>
+</channel>
+ 
  
 <channels>
  
