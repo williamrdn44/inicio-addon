@@ -40,13 +40,14 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</fanart>
 <channel>
  
- <channel>
-<title>[COLOR orange][B][COLOR lime] CANAL RICOS[/COLOR] Web[/B]</title>
-<link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-7vAgEQnD2jo/XLNqsJwX8eI/AAAAAAAAysM/hJ3m3Sez75MABUCWj7rAVD9piTImBpyUwCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.46_46.png</thumbnail>
-<fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
-<genre> [COLOR White][B] Web[/COLOR][/B]</genre>
+
 <channel>
 
+<name>[COLOR crimson][B]CANAL RICOS WEB[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-7vAgEQnD2jo/XLNqsJwX8eI/AAAAAAAAysM/hJ3m3Sez75MABUCWj7rAVD9piTImBpyUwCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.46_46.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/canal%20ricos</externallink>
+<fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
+<info>
+</channel>
 
 
