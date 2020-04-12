@@ -14,6 +14,18 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR crimson][B]CANAL RICOS WEB[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
+<fanart>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</fanart>
+<info>
+
+<channels>
+<channel>
+
+
 
 <channels>
 <channel>
@@ -24,11 +36,6 @@
 <info>
 
 <channels>
-<name>[COLOR crimson][B]CANAL RICOS WEB[/B][/COLOR]</name>
-<thumbnail>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
-<fanart>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</fanart>
-<info>
 <channel>
 
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
