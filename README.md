@@ -42,7 +42,20 @@
 <channel>
  
  
+<channels>
+<channel>
+<name>[COLOR darkblue][B]CANAL RICOS[/B][/COLOR]</name>*
+<thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lP5eKh8WOcPysfELrUpGhHJGZEH.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lP5eKh8WOcPysfELrUpGhHJGZEH.jpg</fanart>
+<info>SEJAM TODOS BEM VINDOS FILMES NOVOS TODA SEMANA !!<info>
+<externallink>https://</externallink>
+<info>
 
+
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
  
 
 
