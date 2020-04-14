@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+</channels><channel>
+<name>[COLOR yellow][B][I]DOCUMENTARIOS discovery channel[/I][/B][/COLOR]</name>
+<thumbnail>https://abrilclaudia.files.wordpress.com/2018/03/discovery-channel-claro-tv.jpg?quality=85&strip=info&w=1024</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/discovery%20channel</externallink>
+<fanart>https://abrilclaudia.files.wordpress.com/2018/03/discovery-channel-claro-tv.jpg?quality=85&strip=info&w=1024</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+
+</channels><channel>
+<name>[COLOR yellow][B][I]DOCUMENTARIOS history channel[/B][/I][/COLOR][COLOR green][B] [/B][/COLOR]</name>
+<thumbnail>https://i2.wp.com/mixdeseries.com.br/wp-content/uploads/2014/12/history-id1-1.jpg?fit=620%2C351&ssl=1</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/HISTORY</externallink>
+<fanart>https://i2.wp.com/mixdeseries.com.br/wp-content/uploads/2014/12/history-id1-1.jpg?fit=620%2C351&ssl=1</fanart>
+<info></info>
+</channel>
