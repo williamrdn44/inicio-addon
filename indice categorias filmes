@@ -96,3 +96,11 @@
 </channel>
 
 <channels>
+
+</channels><channel>
+<name>[COLOR gold][B]Nacional[/B][/COLOR]</name>
+<thumbnail>https://images.tcdn.com.br/img/img_prod/213069/bandeira_do_brasil_torcedor_128x90_cm_mitraud_9959_1_20190611200234.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Nacional</externallink>
+<fanart>https://images.tcdn.com.br/img/img_prod/213069/bandeira_do_brasil_torcedor_128x90_cm_mitraud_9959_1_20190611200234.jpg</fanart>
+<info></info>
+</channel>
