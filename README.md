@@ -59,5 +59,13 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
 <fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
 </channel>
+
+
+<channel>
+<name>[COLOR crimson][B]YOUTUBE[/B][/COLOR]</name>
+<thumbnail>https://static.poder360.com.br/2019/09/Logo_of_YouTube_Originals.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
+<fanart>https://static.poder360.com.br/2019/09/Logo_of_YouTube_Originals.png</fanart>
+</channel>
  
  
