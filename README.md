@@ -67,5 +67,13 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
 <fanart>https://static.poder360.com.br/2019/09/Logo_of_YouTube_Originals.png</fanart>
 </channel>
+
+<channel>
+<name>[COLOR crimson][B]FAÇA SEU PEDIDO[/B][/COLOR]</name>
+<thumbnail>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</fanart>
+<info> PEDIDOS VIA WHATS (55)991-883975  ---- (94) 9182-0288!!<info>
+</channel>
  
  
