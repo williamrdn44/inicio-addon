@@ -70,10 +70,10 @@
 
 <channel>
 <name>[COLOR crimson][B]FAÇA SEU PEDIDO[/B][/COLOR]</name>
-<thumbnail>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</thumbnail>
+<thumbnail>https://2.bp.blogspot.com/-SNdkQ3R5aL4/Xppf3lwH-tI/AAAAAAAADxg/LcGAwZ2nJ38b4Mr5q8SOhJZHNEFdqFJsgCK4BGAYYCw/s320/icono_pedidos1.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</fanart>
-<info> PEDIDOS VIA WHATS (55)991-883975  ---- (94) 9182-0288!!<info>
+<fanart>https://2.bp.blogspot.com/-SNdkQ3R5aL4/Xppf3lwH-tI/AAAAAAAADxg/LcGAwZ2nJ38b4Mr5q8SOhJZHNEFdqFJsgCK4BGAYYCw/s320/icono_pedidos1.jpg</fanart>
+<info> PEDIDOS VIA WHATS (55)991-883975  ---- (94) 9182-0288 ----  51 8264-3017!!<info>
 </channel>
  
  
