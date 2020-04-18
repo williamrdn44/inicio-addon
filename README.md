@@ -3,10 +3,10 @@
 <channels>
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
-<thumbnail>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</thumbnail>
+<thumbnail>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://3.bp.blogspot.com/-848H1wgqWhA/XpoRNH1GxxI/AAAAAAAADxU/wfEtK3MwgWskKRbYFWlSQ6SvkUCMHjbJwCK4BGAYYCw/s1600/icono_pedidos1.jpg</fanart>
-<info> PEDIDOS VIA WHATS (55)991-883975  ---- (94) 9182-0288!!<info>
+<fanart>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</fanart>
+<info>FILMES NOVOS TODA SEMANA!!<info>
 
 
 [COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
