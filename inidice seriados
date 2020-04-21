@@ -3,6 +3,14 @@
  
 
 </channels><channel>
+<name>[COLOR cadetblue][B]Grey's Anatomy (2005)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqgIOObafPJitt8JNh1LuO2fvqu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eYRqeF3YBjdVWZXIGyhwPLzuHvn.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/greys</externallink>
+<info></info>
+</channel>
+
+</channels><channel>
 <name>[COLOR cadetblue][B]O Mecanismo [/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg</fanart>
