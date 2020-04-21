@@ -23,6 +23,14 @@
 </item>
 
 
+</channels><channel>
+<name>[COLOR gold][B]o Mecanismo [/B][/COLOR]</name>
+<thumbnail>https://i.ytimg.com/vi/A8TNFbZ7mjg/maxresdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/links%20O%20Mecanismo</externallink>
+<fanart>https://i.ytimg.com/vi/A8TNFbZ7mjg/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
 <item>
 <title>[COLOR silver][B]Vai que Cola 2020- O Começo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af817f85579287d95aa5df1ea90166b5b6a3c3e9</link>
