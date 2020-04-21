@@ -2,35 +2,17 @@
 <layouttype>thumbnail</layouttype>
  
 
-<name> [COLOR cadetblue] [B] Castelvania [/ B] [/ COLOR] </name>
-<item>
-<title>[COLOR silver][B]Castlevania - 1ª Temporada Completa(2017)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FE9E04689CD7F08E267A5275E45C489273CD97F</link>
+</channels><channel>
+<name>[COLOR cadetblue][B] Castelvania [/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUFK7ElGCk9kVEryDJHICeNdmd1.jpg</thumbnail>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</fanart>
-<info>Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.</info>
-</item>
-
-
-<item>
-<title>[COLOR silver][B]Castlevania - 2ª Temporada Completa( 2019 ) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E787834BB915992C1EDF102EF917D1D4F63DCF0D</link>
-<thumbnail>https://media.fstatic.com/2fot9CxFyfxx1emYoc6ULczI4-8=/fit-in/290x478/smart/media/movies/covers/2018/08/castlevania-season-2.png</thumbnail>
-<fanart>https://media.fstatic.com/2fot9CxFyfxx1emYoc6ULczI4-8=/fit-in/290x478/smart/media/movies/covers/2018/08/castlevania-season-2.png</fanart>
-<info>Inspirado no game Castlevania, conta a jornada de Trevor Belmont, Sypha Belnades e Alucard, que precisam enfrentar o vampiro mais conhecido de todos os tempos – Drácula.</info>
-</item>
-
-
-<item>
-<title>[COLOR silver][B]Castlevania - 3ª Temporada Completa( 2020 ) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9292EC07131E0E89FD6EA557679103CD5B638F8E</link>
-<thumbnail>https://cdn.ome.lt/ITF2bREHP4UiT_0lGom1liIeNs0=/1200x630/smart/extras/conteudos/EP8zs7EVUAAgul2.jpg</thumbnail>
-<fanart>https://cdn.ome.lt/ITF2bREHP4UiT_0lGom1liIeNs0=/1200x630/smart/extras/conteudos/EP8zs7EVUAAgul2.jpg</fanart>
-<info>Castlevania conta a história de Trevor Belmont, caçador que tenta derrotar Dracula, o famoso vampiro que domina grande parte da Europa Ocidental.</info>
-</item>
-
-<channels>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Castelvania</externallink>
+<info></info>
+</channel>
  
+
+
 </channels><channel>
 <name>[COLOR cadetblue][B] Flash (2014)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUFK7ElGCk9kVEryDJHICeNdmd1.jpg</thumbnail>
