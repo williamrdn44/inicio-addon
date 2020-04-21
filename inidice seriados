@@ -3,6 +3,14 @@
  
 
 </channels><channel>
+<name>[COLOR cadetblue][B]O Mecanismo [/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/links%20O%20Mecanismo</externallink>
+<info></info>
+</channel>
+
+</channels><channel>
 <name>[COLOR cadetblue][B] Castelvania [/B][/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</fanart>
