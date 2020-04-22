@@ -2,6 +2,14 @@
 <layouttype>thumbnail</layouttype>
  
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Manifest: 1ª Temporada Completa (2019[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Manifest</externallink>
+<info></info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B]Grey's Anatomy (2005)[/B][/COLOR]</name>
