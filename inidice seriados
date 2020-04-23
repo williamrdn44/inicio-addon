@@ -1,6 +1,14 @@
 
 <layouttype>thumbnail</layouttype>
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Game of Thrones 1 a 5 Temporadas [/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE9Acg2kt641lEpkJ4AUC7u5MJM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Game%20of%20thrones</externallink>
+<info></info>
+</channel>
+
 
 
   </channels><channel>
