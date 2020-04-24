@@ -10,6 +10,14 @@
 </channel>
 
 
+</channels><channel>
+<name>[COLOR cadetblue][B] Raio Negro (2018) [/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h3wTKlnA2ABrkQRm3WNk3mOaTjO.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Raio%20negro</externallink>
+<info></info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B]Inumanos ( 2017) [/B][/COLOR]</name>
