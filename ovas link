@@ -75,9 +75,6 @@
 
 
 
-
-
-
 <item>
 <title>[COLOR silver][B]Dragon Ball Z  SAGA O TORNEIO DO OUTRO MUNDO[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D3EB64B65EDD8CC6D064F8AA327427F0B74439F</link>
@@ -109,6 +106,15 @@
 <info>Pack Filmes</info>
 </item>
 
+
+
+<item>
+<title>[COLOR silver][B]Fly: O Pequeno Guerreiro [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69E340E77BA2F2A0A6D59C29A2E763C9806BA7E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4kiKGYvJ2trpzBVCgkeGwCJuUt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/Gt544xqPfGEO6bMn0jdCGvQmdB.jpg</fanart>
+<info>Fly sonha em ser um heroi mas sua primeira aventura começa quando seu amigo Gome é seguestrado (o Gome é um monstrinho em forma de gota amarela com asas). Pela sua coragem o Rei torna o Fly cavaleiro e mais tarde na ilha ele recebe a princesa Leona de papunika para uns treinamentos de guerreiro, porem foi uma cilada criada. Por pessoas inescrupulosas que queriam matar Leona e possuir o trono de seu pai. Neste momento descobrimos uma marca na testa de fly quando ele libera um misterioso poder o que pode significar que ele seja um descendente do clã dos dragões.</info>
+</item>
 
 <channels>
 </channels><channel>
