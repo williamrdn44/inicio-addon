@@ -106,17 +106,6 @@
 <info>Taz-Mania foi uma desenho animado da Austrália e Estados Unidos, baseado no personagem Taz, integrante dos Looney Tunes, e produzido pela Warner Bros. de 1991 a 1995.</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Manda-chuva (1961)[/B][/COLOR]</name>****************************
-
-<item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fadc5f55ce17990aa33aa1b0dc2672103f4d9b3&dn=Manda+Chuva+Completo&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bccVkejZxfi0AIhswyo4010iMxM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pw4lKgqSrRAggQCnE2XtsxlXzf0.jpg</fanart>
-<info>Manda-Chuva é o típico malandro que faz de tudo para se dar bem na vida. Morador de um beco sujo em uma grande cidade</info>
-</item>
 
 <channels>
 </channels><channel>
