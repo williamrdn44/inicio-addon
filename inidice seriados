@@ -10,6 +10,16 @@
 </channel>
 
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Vikings (2013)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Vikings%20(2013)</externallink>
+<info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.
+</info>
+</channel>
+
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B]Game of Thrones (2011) [/B][/COLOR]</name>
