@@ -40,6 +40,14 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</fanart>
 </channel>
+
+
+<channel>
+<name>[COLOR crimson][B]SHOWS[/B][/COLOR]</name>
+<thumbnail>https://maismiami.com.br/wp-content/uploads/2019/10/shows-miami-maismiami.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
+<fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
+</channel>
  
  
 <channels>
