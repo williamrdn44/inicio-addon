@@ -1,5 +1,13 @@
 <layouttype>thumbnail</layouttype>
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Eu, a Patroa e as Crianças (2001)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8w4LwcDNUJnAu1M46LqtTdjYxo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8J5VXwaThemWij5WZ0ORYS2BQzF.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/eu%20a%20patroa%20e%20as%20crian%C3%A7as</externallink>
+<info>Jay Kyle precisa se dedicar exclusivamente a carreira na contabilidade, porém Michael acredita que esse não é o melhor caminho para Jay, pois acredita que a mesma usa do trabalho para desvirtuar-se de sua família. A menina Kady está sob os cuidados da babá Rosa, uma mulher mexicana que nunca caiu aos encantos do patrão. Claire vive o período da pré-adolescência e costuma ser um pouco arrogante em suas atitudes. Júnior demonstra seu gosto pelo Hip-Hop, porém é desvirtuado da ideia pelo seu pai, que costuma extrapolar, quando o quesito é disciplina.</info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B]Um Maluco no Pedaço (1990)[/B][/COLOR]</name>
@@ -56,7 +64,7 @@
 
 
 </channels><channel>
-<name>[COLOR cadetblue][B]Killing Eve - Dupla Obsessão (2018)[/B][/COLOR]</name>
+<name>[COLOR silver][B]Killing Eve - Dupla Obsessão (2018)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmLJFWOklp4PpUkUfeCFIKntbTH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jHyGUhWBMif5AD6mImr6anYyTlJ.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Killing%20Eve</externallink>
