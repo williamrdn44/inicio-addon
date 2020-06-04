@@ -32,7 +32,6 @@
 <fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
 <info>
 </channel>
-</channels>
 
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
 <thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
