@@ -1,4 +1,4 @@
-# inicio-addon
+
 
 <channels>
 <channel>
@@ -22,6 +22,14 @@
 <thumbnail>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
 <fanart>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</fanart>
+<info>
+ 
+ <channels>
+<channel>
+<name>[COLOR crimson][B]CANAIS 24h[/B][/COLOR]</name>
+<thumbnail>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
+<fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
 <info>
 
 <channels>
@@ -64,25 +72,4 @@
 <channel>
 <name>[COLOR crimson][B]GOSPEL[/B][/COLOR]</name>
 <thumbnail>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
-<fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
-</channel>
-
-
-<channel>
-<name>[COLOR crimson][B]YOUTUBE[/B][/COLOR]</name>
-<thumbnail>https://static.poder360.com.br/2019/09/Logo_of_YouTube_Originals.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
-<fanart>https://static.poder360.com.br/2019/09/Logo_of_YouTube_Originals.png</fanart>
-</channel>
-
-<channel>
-<name>[COLOR crimson][B]FAÇA SEU PEDIDO[/B][/COLOR]</name>
-<thumbnail>https://4.bp.blogspot.com/-YiEGr-ow0s4/Xppg5CSbHEI/AAAAAAAADxs/O7trhvOKwUEzNcnlHse0k523dtxzuKwNQCK4BGAYYCw/s1600/icono_pedidos1.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://4.bp.blogspot.com/-YiEGr-ow0s4/Xppg5CSbHEI/AAAAAAAADxs/O7trhvOKwUEzNcnlHse0k523dtxzuKwNQCK4BGAYYCw/s1600/icono_pedidos1.jpg</fanart>
-<info> PEDIDOS VIA WHATS (55)991-883975  ---- (94) 9182-0288 ----  (51) 98264-3017!!<info>
-</channel>
- 
- 
- 
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/ma
