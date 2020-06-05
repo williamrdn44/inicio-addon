@@ -85,3 +85,4 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
 <fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
 <info>
+
