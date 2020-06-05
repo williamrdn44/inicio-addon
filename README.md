@@ -65,3 +65,5 @@
 <name>[COLOR crimson][B]GOSPEL[/B][/COLOR]</name>
 <thumbnail>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
+ </channel>
+</channels>
