@@ -26,10 +26,10 @@
  
  <channels>
 <channel>
-<name>[COLOR crimson][B]24[/B][/COLOR]</name>
-<thumbnail>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
-<fanart>https://1.bp.blogspot.com/-yBvxa-6SHJ8/Xn5rAnytN4I/AAAAAAAAW00/_RiV2epBbBg7Zlknk1GlrPhwNHhvdj3PgCLcBGAsYHQ/s1600/filmes.webp</fanart>
+<name>[COLOR crimson][B]CANAL 24[/B][/COLOR]</name>
+<thumbnail>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
+<fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
 <info>
  
 
