@@ -69,6 +69,7 @@
 </channel>
 </channels>
 
+<channels>
 <channel>
 <name>[COLOR crimson][B]CANAL 24H[/B][/COLOR]</name>
 <thumbnail>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</thumbnail>
