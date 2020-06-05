@@ -67,3 +67,11 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
 <fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
 </channel>
+
+
+<channel>
+<name>[COLOR crimson][B]CANAL 24H[/B][/COLOR]</name>
+<thumbnail>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
+<fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
+</channel>
