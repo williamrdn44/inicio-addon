@@ -73,7 +73,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]CANAIS 24h[/B][/COLOR]</name>
+<name>[COLOR crimson][B]CANAL 24h[/B][/COLOR]</name>
 <thumbnail>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
 <fanart>https://canal24horas.com.br/images/template/logo_canal_24h_redes.png</fanart>
