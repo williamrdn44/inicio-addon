@@ -67,7 +67,7 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
 <fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
 </channel>
-
+</channels>
 
 <channel>
 <name>[COLOR crimson][B]CANAL 24H[/B][/COLOR]</name>
