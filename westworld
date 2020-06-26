@@ -1,23 +1,20 @@
 <channels>
 </channels><channel>
-<name>[COLOR cadetblue][B] Westworld 1 Temporada [/B][/COLOR]</name>****************************
+<name>[COLOR cadetblue][B] Westworld 1 a 3 Temporada [/B][/COLOR]</name>****************************
 
 
 <item>
-<title>[COLOR silver][B]Temporada Completa [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B] 1 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7b95079fe67b6d1158138a7ffb2e9e99c06142</link>
 <thumbnail>https://poltronanerd.com.br/wp-content/uploads/2018/06/westworld.jpg</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2018/06/westworld.jpg</fanart>
 <info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais..</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR cadetblue][B] Westworld 2 Temporada [/B][/COLOR]</name>****************************
 
 
 <item>
-<title>[COLOR silver][B]Temporada Completa [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B] 2 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72dc8591dd909a034e7bfae0c5d75b4232077eac</link>
 <thumbnail>https://nerdbreak.com.br/wp-content/uploads/2018/06/westworld-season-2-poster-f9.jpg</thumbnail>
 <fanart>https://nerdbreak.com.br/wp-content/uploads/2018/06/westworld-season-2-poster-f9.jpg</fanart>
