@@ -1,5 +1,16 @@
 <layouttype>thumbnail</layouttype>
 
+<channels>
+</channels><channel>
+<name>[COLOR cadetblue][B] Westworld [/B][/COLOR]</name>****************************
+
+</channels><channel>
+<name>[COLOR cadetblue][B]Westworld 1 a 3 Temporada [/B][/COLOR]</name>
+<thumbnail>https://poltronanerd.com.br/wp-content/uploads/2018/06/westworld.jpg</thumbnail>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2018/06/westworld.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/westworld</externallink>
+<info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
+</channel>
 
 
 </channels><channel>
