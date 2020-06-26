@@ -1,14 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 
-<item>
-<title>[COLOR silver][B]Ladroes da Floresta 1ª Temporada Completa (The Flemish Bandits) (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:780d296b517f69da505862e87e04881fa5242721</link>
+
+</channels><channel>
+<name>[COLOR cadetblue][B]Ladroes da Floresta 1ª Temporada( 2020 ) [/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNAFSZyLXGtydSExjGeZ1B544UE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gVVaukIifGJD78llZKgyT5FQbAe.jpg</fanart>
-<info>O carismático ladrão Jan de Lichte lidera os oprimidos em uma revolta contra a aristocracia corrupta de Flandres no século 18..</info>
-</item>
-
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/ladroes%20da%20floresta</externallink>
+<info>Michael Jordan abre o jogo sobre sua vida e carreira nesta série documental com imagens inéditas de sua última temporada na NBA.</info>
+</channel>
 
 
 </channels><channel>
