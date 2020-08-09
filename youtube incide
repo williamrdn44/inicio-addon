@@ -1,23 +1,38 @@
-<layouttype>thumbnail</layouttype>
-
 <channels>
-
 </channels><channel>
-<name>[COLOR silver][B][I]DOCUMENTARIOS discovery channel[/I][/B][/COLOR]</name>
-<thumbnail>https://abrilclaudia.files.wordpress.com/2018/03/discovery-channel-claro-tv.jpg?quality=85&strip=info&w=1024</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/discovery%20channel</externallink>
-<fanart>https://abrilclaudia.files.wordpress.com/2018/03/discovery-channel-claro-tv.jpg?quality=85&strip=info&w=1024</fanart>
+<name>[COLOR deeppink][B]Documentarios[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR silver][B]COVID-19[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<utube>YR6f2dliJdM</utube>
+<thumbnail>https://s04.video.glbimg.com/x720/8314403.jpg</thumbnail>
+<fanart>https://s04.video.glbimg.com/x720/8314403.jpg</fanart>
+<info>PANDEMIA</info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B]Construções Remotas Refúgio em Grande Altitude[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<utube>jO2CaP5DWsc</utube>
+<thumbnail>https://i.ytimg.com/vi/jO2CaP5DWsc/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jO2CaP5DWsc/maxresdefault.jpg</fanart>
 <info></info>
-</channel>
+</item>
 
-
-
-<channels>
-
-</channels><channel>
-<name>[COLOR silver][B][I]DOCUMENTARIOS history channel[/B][/I][/COLOR][COLOR green][B] [/B][/COLOR]</name>
-<thumbnail>https://i2.wp.com/mixdeseries.com.br/wp-content/uploads/2014/12/history-id1-1.jpg?fit=620%2C351&ssl=1</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/HISTORY</externallink>
-<fanart>https://i2.wp.com/mixdeseries.com.br/wp-content/uploads/2014/12/history-id1-1.jpg?fit=620%2C351&ssl=1</fanart>
+<item>
+<title>[COLOR silver][B]Atlântida Revelada[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<utube>mAwqLv4dA</utube>
+<thumbnail>https://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/atlantida-revelada-brasil-showpages.jpg</thumbnail>
+<fanart>https://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/atlantida-revelada-brasil-showpages.jpg</fanart>
 <info></info>
-</channel>
+</item>
+
+
+<item>
+<title>[COLOR silver][B]Narcoamérica - ESPIÕES E EXPERIÊNCIAS SECRETA[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<utube>fxVNkQxWHxo</utube>
+<thumbnail>https://i.ytimg.com/vi/4lbxIpfbfXo/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4lbxIpfbfXo/hqdefault.jpg</fanart>
+<info></info>
+</item>
