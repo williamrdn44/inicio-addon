@@ -9,6 +9,14 @@
 <info>A equipe liderada por Zulema e Maca recebem novas integrantes: Goya, Triana Azcoitia, La Flaca e Monica Ramala, enteada de um importante traficante mexicano que nunca entendeu os negócios da família. Agora, as seis vão enfrentar Ramala, que quer casar sua amada filha Kati e fazer do enteado Diego seu homem de confiança..</info>
 </channel>
 
+</channels><channel>
+<name>[COLOR cadetblue][B] GRIMM  [/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/grim</externallink>
+<info>O detetive Nick Burkhardt descobre que é o último dos Grimm, seres que protegem o mundo humano dos monstros saídos dos contos de fadas.</info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR cadetblue][B] Prison Break  [/B][/COLOR]</name>
