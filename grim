@@ -17,7 +17,7 @@
  
  
 <item>
-<title>[COLOR white][B]episodio 1 e 2 [/B][/COLOR]</title>
+<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E05895B594C705736CB63EBEC21B95FD84B041D&dn=Grimm%202%C2%AA%20Temporada%20(2012)%20-%20Dual%20%C3%81udio%20720p%20(By-LuanHarper)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=http://pow7.com/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
@@ -30,8 +30,21 @@
  
  
 <item>
-<title>[COLOR white][B]episodio 1 e 2 [/B][/COLOR]</title>
+<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FFDE8FF7543A1F43D7765A1E1FF5F192B4676B1&dn=Grimm%203%C2%AA%20Temporada%20(2013)%20-%20Dual%20%C3%81udio%20720p%20(By-LuanHarper)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=http://pow7.com/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
+<info></info>
+</item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]4ª  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52C8E5B095934CCCA4EAE2B2786F0FAA646EBB46&dn=Grimm%204%C2%AA%20Temporada%20(2014)%20-%20Dublado%20720p%20(By-LuanHarper)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=http://pow7.com/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
 <info></info>
