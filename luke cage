@@ -1,0 +1,25 @@
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bbdbf2bf104d06f1f4939edab0d50ad35880fa0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</fanart>
+<info></info>
+</item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2528028ae737050c3a93f53f6dd25e201e1eb153</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMXNVnKtp9IsVBRaylEpSkcx0j.jpg</fanart>
+<info></info>
+</item>
