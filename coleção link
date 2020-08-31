@@ -166,7 +166,7 @@ Missão: Impossível - Protocolo Fantasma:Acusado pelo bombardeio terrorista ao 
 
 <channels>
 </channels><channel>
-<name>[COLOR red][B]Rambo Quadrilogia  (1982-1985-1988-2008)[/B][/COLOR]</name>****************************
+<name>[COLOR red][B]Rambo   (1982-1985-1988-2008)[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Rambo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -181,6 +181,15 @@ Missão: Impossível - Protocolo Fantasma:Acusado pelo bombardeio terrorista ao 
 
 2008 Rambo IV : Vinte anos depois de ter estrelado o último filme da série, Sylvester Stallone volta a encarnar o violento veterano do Vietnã, John Rambo. Nesta nova película, ele também assume a direção. Rambo agora está no norte da Tailândia, onde pilota um barco e tenta levar uma vida tranqüila novamente, mesmo estando próximo a uma região onde acontece um violento conflito civil..</info>
 </item>
+
+<item>
+<title>[COLOR silver][B]Rambo: Até o Fim (2019)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f15d48af518bdfb1571a0194aaa4dd6c7efff097</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hl9wGMntYNl4dEYtjgU600GZ8JH.jpg</fanart>
+<info>Depois de lutar contra seus demônios por décadas, John Rambo agora vive em paz na fazenda de sua família no Arizona, mas seu descanso é interrompido quando Gabriela, neta de sua governanta María</info>
+</item>
+
 
 
 <channels>
