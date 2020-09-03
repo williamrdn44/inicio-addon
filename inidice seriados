@@ -3,6 +3,14 @@
 
 
 </channels><channel>
+<name>[COLOR cadetblue][B]Chuck (2007)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyPuvUr1d0Gn3LVcA47UHzE6i6C.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/f9VtW6yweeUxqRtJKWZCVwZnRyp.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/chuck</externallink>
+<info>Um gênio do computador, Chuck Bartowski, abre um e-mail que foi codificado com segredos vitais do governo, provocando uma transferência massiva de dados importantes direto no seu cérebro. Assassinos e terroristas internacionais querem Chuck.</info>
+</channel>
+
+</channels><channel>
 <name>[COLOR cadetblue][B]Dark (2017)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg</fanart>
