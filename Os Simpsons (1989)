@@ -275,3 +275,17 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
 <info></info>
 </item>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]22  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961c75855ced3bc9681f70f27b45639f8315ec47</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+<info></info>
+</item>
