@@ -262,3 +262,16 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
 <info></info>
 </item>
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]21  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd55a9f45cf3103181eebd0d1f63a2d1025add41</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/adZ9ldSlkGfLfsHNbh37ZThCcgU.jpg</fanart>
+<info></info>
+</item>
