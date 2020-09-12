@@ -100,7 +100,7 @@ channels>
  
 <item>
 <title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50adcb3eefc9575833f920075588d68e1df95bc9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ADCB3EEFC9575833F920075588D68E1DF95BC9&dn=Doctor.Who.8%20-%20&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/AdrEUm6Fm86ZZKxXiHJgDE73xkr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x2RNK4ACF4r4M4aVRYobu70H7l5.jpg</fanart>
 <info></info>
