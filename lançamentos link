@@ -1,9 +1,16 @@
-<item> 
-<title>[COLOR=white][B][I]John Wick[/I][/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F08D939C12AFA0B05D9F49FC8DA6C0507346845&dn=De%20Volta%20ao%20Jogo%202014%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$nome=[B][COLOR white] John Wick 1: De Volta Ao Jogo[/COLOR][/B] [B][COLOR lime]  2014[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AED077B83AC8D1828247A9F3A808ED06EA42F6F9&dn=John%20Wick%20-%20Um%20Novo%20Dia%20Para%20Matar%202017%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$nome=[B][COLOR white] John Wick 2: Um Novo Dia Para Matar[/COLOR][/B] [B][COLOR lime]  2017[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7296D8B865D711B3E00FC2CDBE97F54890875F14&dn=%5bWWW.BLUDV.TV%5d%20John%20Wick%203%20-%20Parabellum%202019%20%28720p%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$nome=[B][COLOR white] John Wick 3: Parabellum[/COLOR][/B] [B][COLOR lime]  2018[/COLOR][/B]</link>
-</item> 
+<item>
+<title>[COLOR silver][B] Homem-Aranha: Longe de Casa[/COLOR][/B][COLOR yellow][B](IMDB 7.7)[/COLOR][/B]</title>
+<link>$doregex[vida]HMEMARNHLNGDCSA.mp4|Referer=$doregex[vidar]$$lsname=[COLOR silver][B]REDECANAIS[/COLOR][/B]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<link>$doregex[mfilm]homemaranhalongedecasa-dub-1080p.mp4|Referer=https://www.mmfilmes.tv.com$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6ihyJWRLEngSnlW8HKeDOH3AfSQ.jpg</fanart>
+<info>Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson). Precisando de ajuda para enfrentar monstros nomeados como Elementais, Fury o convoca para lutar ao lado de Mysterio (Jake Gyllenhaal), um novo herói que afirma ter vindo de uma Terra paralela. Além da nova ameaça, Peter precisa lidar com a lacuna deixada por Tony Stark, que deixou para si seu óculos pessoal, com acesso a um sistema de inteligência artificial associado à Stark Industries.</info>
+</item>
 
 
 
