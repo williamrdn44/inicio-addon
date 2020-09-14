@@ -10,3 +10,53 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
 <info></info>
 </item>
+
+
+
+<channels>
+</channels><channel>
+<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
+ 
+ 
+<item>
+<title>[COLOR white][B]episodio 1 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fa42b398cf99538fcdeff426d263c7a2fcdb0d2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IgCqCZ0rZwvMg88rIS0bknUYWR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B]episodio 2 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b43ca39b919095d3491ba05acf5a0b8a35e6164</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IgCqCZ0rZwvMg88rIS0bknUYWR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]episodio 3 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c28c38c9ddb5974a4ecec17f15749d9d683ab2c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IgCqCZ0rZwvMg88rIS0bknUYWR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B]episodio 4 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:896bba256c51f336f1a245feb2ea2810fc8167fe</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IgCqCZ0rZwvMg88rIS0bknUYWR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B]episodio 5 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec9d349b466ed2d8e628eb517ab0c8c1cb4db45</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IgCqCZ0rZwvMg88rIS0bknUYWR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aKYAuHyDIGnIAd35UAv1cpYWPWL.jpg</fanart>
+<info></info>
+</item>
