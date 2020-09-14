@@ -3,6 +3,14 @@
 
 
 </channels><channel>
+<name>[COLOR cadetblue][B]Doctor Who (2005)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFcZYgPRFZdBkA7EsxHz5Cb8x5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nfH8SZJVOxcBlFaqqtoqS5hHizG.jpg</fanart>
+<externallink>https://github.com/williamrdn44/inicio-addon/raw/master/Doctor%20Who</externallink>
+<info>O Doutor parece ser humano. Ele é bonito, espirituoso, e pode ser confundido com outro homem na rua. Mas ele é um Lorde do Tempo: um alienígena de 900 anos de idade com 2 corações, membro de uma civilização talentosa que dominou a viagem no tempo.</info>
+</channel>
+
+</channels><channel>
 <name>[COLOR cadetblue][B]Salem (2014)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBSBXMKnu01H29vDrorTn3PR1zJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9ygS2Rqn7te8UeAzfp8cZu6m5D1.jpg</fanart>
