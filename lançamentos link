@@ -1,5 +1,13 @@
 
 <item> 
+<title>[COLOR=white][B][I]testando [/I][/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb[B][COLOR white] t 1[/COLOR][/B] [B][COLOR lime]  2014[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb[B][COLOR white] t 2[/COLOR][/B] [B][COLOR lime]  2017[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb[B][COLOR white] TEMPOADA 3[/COLOR][/B] [B][COLOR lime]  2018[/COLOR][/B]</link>
+<item> 
+
+
+<item> 
 <title>[COLOR=white][B][I]teste [/I][/B][/COLOR]</title> 
 <link>$plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb[B][COLOR white] t 1[/COLOR][/B] [B][COLOR lime]  2014[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb[B][COLOR white] t 2[/COLOR][/B] [B][COLOR lime]  2017[/COLOR][/B]</link>
