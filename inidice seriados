@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 </channels><channel>
+<name>[COLOR cadetblue][B]O Mentalista (2008)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/o%20mentalista</externallink>
+<info>Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
+</channel>
+
+</channels><channel>
 <name>[COLOR cadetblue][B]O Exorcista (2016)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcXOCWdv0ulNxEqV6jvZcUdZZRa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3nUMHegAa1zvl8Dvz4qKgGkqAll.jpg</fanart>
