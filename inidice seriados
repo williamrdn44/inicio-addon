@@ -1,6 +1,16 @@
 <channels>
 </channels><channel>
-<name>[COLOR deeppink][B] Section Zéro [/B][/COLOR]</name>****************************
+
+</channels><channel>
+<name>[COLOR cadetblue][B]Z Nation (2014)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/geFT40zG22OCJSj7WkkCi71xWES.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jCvwvSH5i9bLaql1rR21j9U9LS.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/z%20nation</externallink>
+<info>Um grupo embarca em uma perigosa jornada pelo país para levar o único sobrevivente de uma epidemia zumbi a um centro de pesquisas.</info>
+</channel>
+
+
+<name>[COLOR cadetblue][B] Section Zéro [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]1ª Temporada Completa [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -10,9 +20,6 @@
 <info>Num futuro próximo, corporações multinacionais tomam o controle da Europa. Promethee, uma dessas corporações, deseja aumentar sua dominação ao substituir a polícia por uma milícia, o Esquadrão Negro liderado por Henry Munro. Sirius, um ex-policial atormentado pela morte da filha, se alia a Franck Vernova no esquadrão clandestino Section Zero que luta contra as milícias privadas, idealizando o retorno da força policial tradicional antes que seja tarde demais.</info>
 </item>
 
-
-
-<layouttype>thumbnail</layouttype>
 
 </channels><channel>
 <name>[COLOR cadetblue][B]O Mentalista (2008)[/B][/COLOR]</name>
