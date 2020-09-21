@@ -1,14 +1,20 @@
-<item>
-<title>[COLOR silver][B]Esquadrão Classe A [/COLOR][/B][COLOR yellow][B](IMDB 6.8)[/COLOR][/B]</title>
-<link>$doregex[vida]ESQDRCLSA.mp4|Referer=$doregex[vidar]$$lsname=[COLOR silver][B]REDECANAIS[/COLOR][/B]</link>
-<regex><name>vida</name><expres>(.*?).rcf4</expres><page>https://goo.gl/fmBTiU</page></regex>
-<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:35967ae71ba251d7141903afa1842a4558d5d64b$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35967ae71ba251d7141903afa1842a4558d5d64b$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8uSU5VEbq6RhBt0AuIuAFSKYuyu.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/rRBpKgStVlFlK0Rl42tqxNqX5E.jpg</fanart>
-<info>O Coronel Hannibal Smith (Liam Neeson) e seus amigos mercenários são acionados para fazer um serviço secreto para um agente do Governo americano, mas uma militar de alta patente, a Tenente Sosa (Jessica Biel), antigo caso de Cara de Pau (Bradley Cooper), os proíbe de prosseguir na missão, que envolve falsificação de dólares em Bagdá e uma provável conspiração.</info>
+<item> 
+<title>[COLOR=white][B][I] COLEÇÃO - SUPERMAN  [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=Superman+-+O+Filme+%281978%29+%28Reupado%29+Bluray+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white] SUPERMAN - O FILME [/COLOR][/B] [B][COLOR lime]  1978  [/COLOR][/B]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947&dn=Superman+2+%281980%29+Bluray+720p+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white] SUPERMAN  II  [/COLOR][/B] [B][COLOR lime] 1980 [/COLOR][/B]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5&dn=COMANDOTORRENTSHD.NET.Superman+3+%281983%29+Bluray+720p+Filmes++M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white] SUPERMAN  III [/COLOR][/B] [B][COLOR lime]  1983 [/COLOR][/B]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18&dn=COMANDOTORRENTSHD.NET.Superman+4+-+Em+Busca+Da+Paz+%281987%29+Bluray+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white] SUPERMAN I V [/COLOR][/B] [B][COLOR lime] 1987 [/COLOR][/B]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37&dn=Superman+O+Retorno+%282006%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white]  SUPERMAN  -  O  RETORNO [/COLOR][/B] [B][COLOR lime] 2006 [/COLOR][/B]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad4d8e5aa48ecffd0f8252d283aff92694d591&dn=O+Homem+de+A%26ccedil%3Bo+%282013%29+720p+HD+Dublado+%2F+Dual+Audio+pt-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[B][COLOR white]  SUPERMAN  -  O  HOMEM DE AÇO  [/COLOR][/B] [B][COLOR lime] 2013 [/COLOR][/B]</link
+<thumbnail>https://i.ytimg.com/vi/V5TJsc6-3SY/hqdefault.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 </item>
+
 
 <item>
 <title>[COLOR silver][B]Macabro (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
