@@ -2,6 +2,13 @@
 
 <channels>
 
+</channels><channel>
+<name>[COLOR cadetblue][B]Os 100 (2014)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dWGD5oNSNkiAE4OFUh9cSdD3zpL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/the%20100</externallink>
+<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
+</channel>
 
 
 
