@@ -33,6 +33,14 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/XtqfPVRaXJdQ6W8VQ9xKlRrXSB.jpg</fanart>
 <info>
 </channel>
+ 
+ <channel>
+<name>[COLOR crimson][B]TESTE[/B][/COLOR]</name>
+<thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/inidice%20seriados</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/XtqfPVRaXJdQ6W8VQ9xKlRrXSB.jpg</fanart>
+<info>
+</channel>
 
 
 <channel>
