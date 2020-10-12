@@ -1,4 +1,14 @@
 <item>
+<title>[COLOR silver][B]WALL-E (2008)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f6e283eb69014ab9b7878a4ae479a45b7d2395e$$lsname=[COLOR cadetblue][B]720P[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:500f6656d04851cb0fd222e53770b1376b17638b$$lsname=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m5_lIuBXKWk$$lsname=[COLOR cadetblue][B]TRAILER[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agc6lw8pb6BIGVeguvdjDT0p9Mb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg</fanart>
+<info>Em um distante futuro, um pequeno robô coletor de lixo embarca em uma jornada espacial que acabará por decidir o destino da humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]Patrulha Canina – Aventuras de Inverno (2014)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b02db6a508aeaf3af3391e43029fc9abaa9dbc2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZr5EKj4SlgkJYtLyVPgY1U48S8.jpg</thumbnail>
