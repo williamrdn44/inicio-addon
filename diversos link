@@ -731,16 +731,21 @@ San Francisco, Estados Unidos. Eddie Brock (Tom Hardy) é um jornalista investig
 
 <item>
 <title>[COLOR silver][B]Kingsman: O Círculo Dourado (2017)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82de529fa93b8e12486135ae5fdc320c0edfb781</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82de529fa93b8e12486135ae5fdc320c0edfb781$$lsname=[COLOR cadetblue][B]720P[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55b0e47384c571e615fb0e498f0d532693725f7e$$lsname=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wzm47NfD-FM$$lsname=[COLOR cadetblue][B]TRAILER[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/k8lduAlGOXDYYKSlBeJ0CDyra0x.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uExPmkOHJySrbJyJDJylHDqaT58.jpg</fanart>
 <info>Quando ocorre um ataque à sede da Kingsman e um novo vilão surge, Eggsy e Merlin são forçados a trabalhar em conjunto com a agência americana conhecida como Statesman para salvar o mundo.</info>
 </item>
 
 <item>
 <title>[COLOR silver][B]Kingsman: O Serviço Secreto (2014)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc76201efe57601b434c7bc5d10dc55faf2f638</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3471551aab59dcf2ffccd31d0a73b326d4f7ae90$$lsname=[COLOR cadetblue][B]720P[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d46defc3473272b2704886c440139257d355b2$$lsname=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b758659ab76b7e73658fefda7dc0ef841c438c5f$$lsname=[COLOR cadetblue][B]4K[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yzMtm3XqsLc$$lsname=[COLOR cadetblue][B]TRAILER[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wDhy1Ga9BoLwkHOI0jJISQem28v.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7McaexSsSTLD8V17UgaZAfI0Cu9.jpg</fanart>
 <info>A história de uma organização de espionagem super secreta que recruta um garoto de rua não refinado, mas promissor, no programa de treinamento ultra-competitivo da agência, assim como uma ameaça global emerge de um gênio da tecnologia distorcido.</info>
 </item>
