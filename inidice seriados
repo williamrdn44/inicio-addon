@@ -3,6 +3,16 @@
 <channels>
 
 </channels><channel>
+<name>[COLOR cadetblue][B]The Mandalorian (2019)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CQuB71u4fbZzRARJMBLusFd5eL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/p7fwOnlxYYlB4A8U2b0JfX21Rr1.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/the%20mandalorian</externallink>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.
+</info>
+</channel>
+
+
+</channels><channel>
 <name>[COLOR cadetblue][B]Glee: Em Busca da Fama (2009)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/my3L1IewKcaliiB9iNzMjcQaBx8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h6ZNp5KPP6FvrHQiWrj4y4AapVL.jpg</fanart>
