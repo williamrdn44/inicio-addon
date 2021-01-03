@@ -2,8 +2,17 @@
 
 <channels>
 
+
 </channels><channel>
-<name>[COLOR yellow][B][I]LANÇAMENTOS[/I][/B][/COLOR]</name>
+<name>[COLOR yellow][B][I]LANÇAMENTOS 2021[/I][/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-Qz3ZbvkJNr0/X_HpUJHp3KI/AAAAAAAAECM/nUskqmXeBNYgnvtxMkNTiA5NHnOrQRGFgCLcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/2021</externallink>
+<fanart>https://lh3.googleusercontent.com/-3mSDhgJJgSY/X_HqZf8ar8I/AAAAAAAAECY/bnUFoQhOo_sqisnHfQTlaprUKyhywXbgwCLcBGAsYHQ/image.png</fanart>
+<info></info>
+</channel>
+
+</channels><channel>
+<name>[COLOR yellow][B][I]LANÇAMENTOS 2020[/I][/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/heroisx.com/wp-content/uploads/2019/12/Top-10-melhores-filmes-2019-Heroi-X-1o-pr%C3%AAmio-stan-lee-ano-2019.jpg?resize=640%2C480&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/lan%C3%A7amentos%20link</externallink>
 <fanart>https://i0.wp.com/heroisx.com/wp-content/uploads/2019/12/Top-10-melhores-filmes-2019-Heroi-X-1o-pr%C3%AAmio-stan-lee-ano-2019.jpg?resize=640%2C480&ssl=1</fanart>
