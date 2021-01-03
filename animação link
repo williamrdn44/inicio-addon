@@ -1,4 +1,15 @@
 <item>
+<title>[COLOR silver][B]A Caminho da Lua (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:f96ce9213da53837482b5e1592c87d0dcd5fbe7d$$lsname=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=135b3bbfffa2bfe57c0bc7f621c794bb87a45c91$$lsname=[COLOR cadetblue][B]720P[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u2vZvfUEifo$$lsname=[COLOR cadetblue][B]TRAILER[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jalZ1oVkuuVXek0B2BKrFWMUv9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/vwYI3vWEwFs40HfmSQzPcGMVYfD.jpg</fanart>
+<info>Uma garota constrói uma nave espacial e parte rumo ao espaço à procura da deusa da lua.</info>
+</item>
+
+
+<item>
 <title>[COLOR silver][B]Era Uma Vez um Boneco de Neve (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a280922239127fe3540479ce35fad5ce4a278b9f$$lsname=[COLOR cadetblue][B]1080P[/COLOR][/B]</link>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I7hbzTD1o8w$$lsname=[COLOR cadetblue][B]TRAILER[/COLOR][/B]</link>
