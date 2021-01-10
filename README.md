@@ -49,7 +49,7 @@
 
 <channel>
 <name>[COLOR crimson][B]SHOWS[/B][/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/-Iuc6aY_zSeI/X_sijtIJsJI/AAAAAAAAEDQ/rBjbAk1U1gMchdwAY-aB-srHKQRezGZYwCLcBGAsYHQ/image.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-J86NuX9nvyE/X_sja6mwPRI/AAAAAAAAEDo/5kLcm8SbCyUXZz9XmH1DdRNZqLlS7aYdgCLcBGAsYHQ/show-1280x720.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
 <fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
 </channel>
