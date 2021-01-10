@@ -75,14 +75,7 @@
 </channels>
  
 
-<channels>
-<channel>
-<name>[COLOR crimson][B]STREAMING DESENHOS[/B][/COLOR]</name>
-<thumbnail>https://www.showmetech.com.br/wp-content/uploads//2017/03/hanna-barbera-boomerang-streaming.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/CANAIS24H</externallink>
-<fanart>https://www.showmetech.com.br/wp-content/uploads//2017/03/hanna-barbera-boomerang-streaming.jpg</fanart>
-<info>
- 
+
  <channels>
 <channel>
 <name>[COLOR crimson][B] CONTEUDO YOUTUBE[/B][/COLOR]</name>
