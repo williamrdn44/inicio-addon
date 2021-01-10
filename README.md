@@ -49,7 +49,7 @@
 
 <channel>
 <name>[COLOR crimson][B]SHOWS[/B][/COLOR]</name>
-<thumbnail>https://maismiami.com.br/wp-content/uploads/2019/10/shows-miami-maismiami.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-Iuc6aY_zSeI/X_sijtIJsJI/AAAAAAAAEDQ/rBjbAk1U1gMchdwAY-aB-srHKQRezGZYwCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
 <fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
 </channel>
@@ -68,7 +68,7 @@
  
 <channel>
 <name>[COLOR crimson][B]GOSPEL[/B][/COLOR]</name>
-<thumbnail>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-HcbhlNsrwW0/X_siSvCdsII/AAAAAAAAEDI/3TPnNS4v1cU704IRu8DNLScCGGio0l84QCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
 <fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
 </channel>
