@@ -19,9 +19,9 @@
 <channels>
 <channel>
 <name>[COLOR crimson][B]FILMES[/B][/COLOR]</name>
-<thumbnail>https://imgbox.com/g/0QqZtua37c</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-vOmB6dG10oA/YCmcwGKn7LI/AAAAAAAAEFU/NMbsQlbIyJY2rm6sRGYmY6tH6b-tchDCwCLcBGAsYHQ/filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/indice%20categorias%20filmes</externallink>
-<fanart>https://images2.imgbox.com/d7/95/gWmVIV7c_o.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-4lk97K_SyYc/YCmdN5XCWTI/AAAAAAAAEFo/GSMCMY1IWdUgdjwvRd1V82ERrWfvIgg1gCLcBGAsYHQ/s1920/fanart.jpg</fanart>
 <info>
 </channel>
 
