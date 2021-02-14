@@ -76,12 +76,12 @@
  
 
 
- <channels>
+<channels>
 <channel>
-<name>[COLOR crimson][B] CONTEUDO YOUTUBE[/B][/COLOR]</name>
-<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
-<fanart>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</fanart>
+<name>[COLOR crimson][B] NOVELAS[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-ZKB9fSqkdts/YChrMGKNayI/AAAAAAAAEE4/hMhLEE10nQMDVyvCnIUmQMRrtAEnb9-8gCLcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/novelas</externallink>
+<fanart>https://lh3.googleusercontent.com/-ZKB9fSqkdts/YChrMGKNayI/AAAAAAAAEE4/hMhLEE10nQMDVyvCnIUmQMRrtAEnb9-8gCLcBGAsYHQ/image.png</fanart>
 <info>
 
 
