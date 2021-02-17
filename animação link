@@ -1,10 +1,11 @@
 <item>
-<title>[COLOR silver][B]teste[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>http://server1.cegosbrasil.net/downloads/novelas/Uga%20Uga%20(2000)/Cap%C3%ADtulo%20001.mp3</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg</fanart>
-<info>Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo</info>
-</item>
+<title>[COLOR silver][B] Homem-Aranha: Longe de Casa[/COLOR][/B][COLOR yellow][B](IMDB 7.7)[/COLOR][/B]</title>
+<link>$doregex[vida]HMEMARNHLNGDCSA.mp4|Referer=$doregex[vidar]$$lsname=[COLOR silver][B]REDECANAIS[/COLOR][/B]</link>
+<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<link>$doregex[mfilm]homemaranhalongedecasa-dub-1080p.mp4|Referer=https://www.mmfilmes.tv.com$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<item>
 
 <item>
 <title>[COLOR silver][B]Soul (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
