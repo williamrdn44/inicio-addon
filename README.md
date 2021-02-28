@@ -1,6 +1,5 @@
 
 
-<channels>
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
 <thumbnail>https://images2.imgbox.com/e6/48/uhDVCmkK_o.jpg</thumbnail>
@@ -17,7 +16,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channels>
 <channel>
 <name>[COLOR crimson][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-vOmB6dG10oA/YCmcwGKn7LI/AAAAAAAAEFU/NMbsQlbIyJY2rm6sRGYmY6tH6b-tchDCwCLcBGAsYHQ/filmes.jpg</thumbnail>
