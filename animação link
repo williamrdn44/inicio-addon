@@ -1,4 +1,9 @@
 <item>
+<title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
+<link>$doregex[mfilm]Piglets.Big.Movie.2003.720p.BluRay.x264-%5BYTS.LT%5D.mp4|Referer=https://app.mediafire.com/$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
+<regex><name>mfilm</name><expres>(.*?).app.mediafire</expres><page>https://app.mediafire.com/ybfhtanxp8vyb</page></regex>
+
+<item>
 <title>[COLOR silver][B]teste3[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>https://www.mediafire.com/file/q7d3t4fbtstklfc/Piglets.Big.Movie.2003.720p.BluRay.x264-%255BYTS.LT%255D.mp4/file</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
