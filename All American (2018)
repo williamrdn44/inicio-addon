@@ -1,15 +1,5 @@
-<item>
-<title>[COLOR white][B]Máquina Mortífera (1987) [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3acefbf454ca9edf350f17e8e531493d3fcc3740</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsn0xqelydberc2UoHE8JzdDPTP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/guTNnSWS3CaH71jasY8W1FMptjG.jpg</fanart>
-<info>Martin Riggs (Mel Gibson) é um tira ensandecido que está sempre vivendo no limite. Por outro lado, o policial Roger Murtaugh (Danny Glover) é um homem tranquilo, que espera apenas a sua aposentadoria chegar. </info>
-</item>
-
-
-
 <channels>
-<channel>
+</channels><channel>
 <name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
  
  
@@ -22,7 +12,7 @@
 </item>
 
 <channels>
-</channels>
+</channels><channel>
 <name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
  
  
