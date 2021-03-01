@@ -1,23 +1,16 @@
 <item>
-<title>[B][COLOR orange]SERIE[/COLOR]: The Walking Dead [/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/w342/q3rlhCrawPHssE5kY7GeI2hN0GB.jpg</thumbnail>
-<info>Sinopse: Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>
-</item><item>
-<thumbnail>https://image.tmdb.org/t/p/w342/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
-				
-					
-<title>T1 COMPLETA The Walking Dead</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c200a29db264899cc302bc408ebfd0f672720c95</link>
-						
-							
-			
-</item><item>
-<thumbnail>https://image.tmdb.org/t/p/w342/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
-				
-<title>T2 COMPLETA The Walking Dead</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b523f7f866f16f96035667ac9fddca107878809</link>
-						
-							
-</item><item>
-<thumbnail>https://image.tmdb.org/t/p/w342/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
-				
-					
-<title> T3 COMPLETA The Walking Dead</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d56f9de3f8d41b762345ab384c4d5ab42e8d61d</link>
+<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f27b6e04c1a5acd8b011b67755dfabf9838aadfc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9cigXKHyqtaP50auMpJbZ3WcRQ9.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/All%20American%20(2018)</externallink>
+<info></info>
+</item>
+ 
+<item>
+<title>[COLOR white][B]episodio 1 ao 2 [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a54186c69ed4ba8688d691f7bae0a628ac334d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9cigXKHyqtaP50auMpJbZ3WcRQ9.jpg</fanart>
+<info></info>
+</item>
