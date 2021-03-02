@@ -1,5 +1,4 @@
 
- 
 <item>
 <title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A6BDF6E922E86F465A32618554DE344E6DF3320&dn=Grimm%20-%2001%C2%AA%20Temporada%20(2012)%20720p%20Dual%20%C3%81udio%20-%20HipnosTPF&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.ccc.de:80/announce</link>
@@ -17,13 +16,11 @@
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3ª  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
+<title>[COLOR white][B]3 TEMPORADA [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FFDE8FF7543A1F43D7765A1E1FF5F192B4676B1&dn=Grimm%203%C2%AA%20Temporada%20(2013)%20-%20Dual%20%C3%81udio%20720p%20(By-LuanHarper)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=http://pow7.com/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
