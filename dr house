@@ -1,23 +1,19 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21e770515366f5fa2d1328b3e1adad479f24da14</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998e261004e75c82319dd04fc748bbdf18674918</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
@@ -25,78 +21,61 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
- 
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B] 3temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3744C7175D3DD4ACE74E00F6D20C5EBA2DFB272C&dn=Dr.%20House%203%c2%aa%20Temporada%20%282006%29%20-%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]4  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B] 4 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42554661B829DBBE2E7AF4D0A27B729C01887C1A&dn=Dr.%20House%20-%204%c2%aa%20Temporada%20%282007%29%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]5  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]5 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:802FF4E2B05B69D6EE375971F70E32EAD752B3E5&dn=Dr.%20House%205%c2%ba%20Temp%20%28720p%29Dual&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]6  Temporada[/B][/COLOR]</name>****************************
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]6 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDA2A1C268626300CB9B4B05F697E0ED5F49EDB2&dn=Dr.%20House%206%c2%ba%20Temp%20%28720p%29Dual&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]7  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]7 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4DEC6DB9B163580808D6E7D5879E68DE9D3B38B&dn=Dr.%20House%207%c2%ba%20Temp%20%28720p%29Dual&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]8  Temporada[/B][/COLOR]</name>****************************
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]8 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:891B052F2DAE8B4423C38586E966CBC685FCAA15&dn=Dr.%20House%208%c2%ba%20Temp%20%28720p%29Dual&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFg9jM4s0RLW6Pvd3YH9cDngIR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg</fanart>
