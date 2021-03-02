@@ -1,8 +1,12 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
- 
+<item>
+<title>[COLOR white][B]1 temporada[/B][/COLOR]</title>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3tDbJxobPN3EI2bBebL6zmusmw5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg</fanart>
+<info></info>
+</item>
+
+
+
 <item>
 <title>[COLOR white][B]episodio 1 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b229c5b3068bb77b98f7a4c7a63b518687a040e3</link>
