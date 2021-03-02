@@ -38,16 +38,15 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]5 Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]episodio 1 ao 2 [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5542361c0aea97855fec0fece4530675c1dd9d8b</link>
+<title>[COLOR white][B]5 temporada[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/5%20tempo%20the%20black</externallink>
+
 <info></info>
 </item>
 
