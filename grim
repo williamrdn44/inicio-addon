@@ -27,26 +27,22 @@
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]4ª  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
+<title>[COLOR white][B]4 TEMPORADA [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52C8E5B095934CCCA4EAE2B2786F0FAA646EBB46&dn=Grimm%204%C2%AA%20Temporada%20(2014)%20-%20Dublado%20720p%20(By-LuanHarper)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://open.demonii.com:1337/announce&tr=http://pow7.com/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]5ª  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
+<title>[COLOR white][B]5 TEMPORADA [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C034420315B193E25CC51EA17AD3D7304A6E734&dn=Grimm%20-%205%C2%AA%20Temporada%20(2016)%20Dual%20%C3%81udio%20720p%20(By-LuanHarper)&tr=udp://tracker.trackerfix.com:81/announce&tr=udp://9.rarbg.me:2720/announce&tr=udp://9.rarbg.to:2710/announce&tr=http://pow7.com/announce&tr=*udp://open.demonii.com:1337/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=http://tracker.blazing.de/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.publicbt.com:80//announce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
@@ -54,13 +50,10 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]6  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]TEMPORADA COMPLETA[/B][/COLOR]</title>
+<title>[COLOR white][B]6 TEMPORADA [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb36416617c590ac7eec92a4a5c00796a8931dfe</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</fanart>
