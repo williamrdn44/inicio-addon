@@ -1,23 +1,17 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5de588c6fa5d832610af50125e31bfcc32a5c66</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adde7c3a14256f313e87f1ee1fbfb642e8baca8f</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ0SNoD0DchXo5nH3N81ABIe3H.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
@@ -25,26 +19,20 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]3 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:852032e3abe7b8eabeade6a258095e023f866b7c</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dV9k3DnTyiOjx8i1AXDrRQZ9uiF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]4  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]4 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4744e7bf7fc103bc969e00e51e84e35285df8471</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/et2pxDkudiMBIafKqjT8kG1JsSr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
@@ -52,39 +40,32 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]5  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]5 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3846b59335fae57bcb80186e0aab3a84ccff9685</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jstZGd2WdMFeL6mSErs1PMHyM2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]6  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]6 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de173deeab3747c1370a912f3268441ae485154b</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bcRkmWCR3ss41zCllSE2WFFaHMM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]7  Temporada[/B][/COLOR]</name>****************************
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]7 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38757a836b2dff543392706c7b65ff87638ff7eb</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7fhbNoEr14QgeU0pp84faMI9Qpc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dDk2RFvi4a3nDRqdoVE60CxTElL.jpg</fanart>
