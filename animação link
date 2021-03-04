@@ -1,7 +1,3 @@
-<item>
-<title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
-<link>$doregex[mfilm]Piglets.Big.Movie.2003.720p.BluRay.x264-%5BYTS.LT%5D.mp4|Referer=https://app.mediafire.com/$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
-<regex><name>mfilm</name><expres>(.*?).app.mediafire</expres><page>https://app.mediafire.com/ybfhtanxp8vyb</page></regex>
 
 <item>
 <title>[COLOR silver][B]testee3[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
