@@ -1,10 +1,8 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bcb118d214f823798db6723506ffb614548e86e</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8XdzUXegKoMDQ3JDYhyhM29qgaw.jpg</fanart>
@@ -13,13 +11,10 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8XdzUXegKoMDQ3JDYhyhM29qgaw.jpg</fanart>
@@ -27,13 +22,10 @@
 </info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]3 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EEC46A7F81EA21767FDACE610711C6D9EDE832D0&dn=%7bWWW.BLUDV.TV%7d%20Impuros%201%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8XdzUXegKoMDQ3JDYhyhM29qgaw.jpg</fanart>
