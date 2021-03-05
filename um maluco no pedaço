@@ -1,10 +1,7 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]todas Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EC30BB764A9E0E9FC8CB01B13AEFF52AC1F08A4&dn=Um%20Maluco%20No%20Peda%C3%83%C2%A7o&tr=udp://tracker.ccc.de:80&tr=udp://tracker.istole.it:80&tr=http://tracker.publicbt.com0/announce&tr=udp://tracker.openbittorrent.com:80</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/syH5iXKaLEiTEgF1ffF8OJUbCaS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gg4LugDFjF440oMil0VjezGKGiI.jpg</fanart>
