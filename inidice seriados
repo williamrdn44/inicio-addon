@@ -503,19 +503,13 @@
 
 
 
-<channels>
 </channels><channel>
-<name>[COLOR cadetblue][B] Sex Education [/B][/COLOR]</name>****************************
-
-
-
-<item>
-<title>[COLOR deeppink][B] 1 Temporada Completa   [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ebfeae72238a0a653934a9bd4760722dbffdf5d</link>
-<thumbnail>http://www.megatorrentshd.org/wp-content/uploads/2020/01/capa-Sex-Education-1%C2%AA-Temporada-hd-series-200x300.jpg</thumbnail>
-<fanart>http://www.megatorrentshd.org/wp-content/uploads/2020/01/capa-Sex-Education-1%C2%AA-Temporada-hd-series-200x300.jpg</fanart>
-<info>Otis Thompson (Asa Butterfield) é um virgem com ansiedade social que é filho de uma terapeuta sexual (Gillian Anderson). Por ter crescido cercado por manuais, vídeos e conversas abertas sobre sexualidade, ele torna-se um expert no assunto – mesmo que contra sua vontade. Com a ajuda de Maeve (Emma Mackey), ele inicia uma clínica clandestina dentro da escola, ajudando os colegas com problemas sexuais em troca de dinheiro..</info>
-</item>
+<name>[COLOR cadetblue][B] Sex Education (2019)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cK6JhcZFpwVW9tldz3llodY2TeY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cK6JhcZFpwVW9tldz3llodY2TeY.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/sex%20education%20link</externallink>
+<info>O inseguro Otis manja tudo quando o negócio é aconselhamento sexual, graças à sua mãe sexóloga. E aí a rebelde Maeve propõe criar uma clínica de terapia sexual na escola.</info>
+</channel>
 
 
 <item>
