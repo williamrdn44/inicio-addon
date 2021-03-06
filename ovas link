@@ -1,10 +1,7 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Os Cavaleiros do Zodíaco[/B][/COLOR]</name>****************************
 
 
 <item>
-<title>[COLOR silver][B]Alma de Ouro[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Os Cavaleiros do Zodíaco Alma de Ouro[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9178EA47878AD21AA76FEE96D393BA866D5DD8A</link>
 <thumbnail>https://viatorrents.com/imagens/os-cavaleiros-do-zodiaco-alma-de-ouro-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://viatorrents.com/imagens/os-cavaleiros-do-zodiaco-alma-de-ouro-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -12,23 +9,21 @@
 </item>
 
 
-</channels><channel>
+<item>
 <name>[COLOR deeppink][B]X-Men: Evolution (2000)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pkslD6YuKBdNuEsJ7X8ADZW3uRN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pkslD6YuKBdNuEsJ7X8ADZW3uRN.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/x-men%20evolution</externallink>
 <info>X-Men: Evolution é uma série animada sobre os super-heróis da Marvel Comics, os X-Men. Essa versão reimagina os personagens como jovens, em sua maioria adolescentes.</info>
-</channel>
+</item>
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]BNA - Brand New Animal[/B][/COLOR]</name>****************************
+
  
 
 <item>
-<title>[COLOR silver][B] 1 Temporada Completa (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B] BNA - Brand New Animal[ (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36a013100da2c7ede0b62dbe28cecfe64abc626</link>
 <thumbnail>https://viatorrents.com/capas/bna-brand-new-animal-1-temporada-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://viatorrents.com/capas/bna-brand-new-animal-1-temporada-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -37,10 +32,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Avatar: A Lenda de Korra[/B][/COLOR]</name>****************************
- 
 
 <item>
 <title>[COLOR silver][B]Avatar: A Lenda de Korra (2012)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -52,10 +43,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Bucky - Jibaku-kun[/B][/COLOR]</name>****************************
- 
 
 <item>
 <title>[COLOR silver][B]Bucky – Jibaku-kun(1999)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -66,10 +53,7 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Neo Yokio[/B][/COLOR]</name>****************************
- 
+
 
 <item>
 <title>[COLOR silver][B]Neo Yokio (2019)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -81,10 +65,7 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Fullmetal Alchemist: Brotherhood (2009)[/B][/COLOR]</name>****************************
- 
+
 <item>
 <title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4BB33951051FCBE9981EF4DBC06BC6AB72D3D88&dn=FullMetal%20Alchemist%20Brotherhood</link>
@@ -94,9 +75,7 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]naruto [/B][/COLOR]</name>****************************
+
  
 <item>
 <title>[COLOR white][B]naruto classico[/B][/COLOR]</title>
@@ -115,9 +94,7 @@
 <info>Profundamente dentro da Oculta Vila de Konoha, o jovem ninja Naruto Uzumaki carrega selado dentro dele o espírito da Raposa de Nove Caudas, que uma vez quase destruiu a aldeia. Sempre um pária por causa de seu segredo, agora Naruto batalha ao lado de seus companheiros de equipe Sasuke e Sakura para provar a si mesmo e todos os outros que ele é o maior ninja de sempre. Mas ele tem uma longa lista de desafios a enfrentar antes de ele chegar lá!</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Os Cavaleiros do Zodíaco (Coleção Completa) [/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Os Cavaleiros do Zodíaco (Coleção Completa)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -129,9 +106,6 @@
 
 
  
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Samurai Warriors Completo [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Samurai Warriors [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -142,9 +116,6 @@
 </item>
 
  
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Shurato Completo [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Shurato [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -155,9 +126,7 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Yu Yu Hakusho Completo [/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Yu Yu Hakusho [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -169,9 +138,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Super Campeões Capitão Tsubasa[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]1 Temporada Completa [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -183,68 +149,27 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Shingeki No Kyojin[/B][/COLOR]</name>****************************
- 
- 
 <item>
-<title>[COLOR white] 1 temporada completa[B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9826A0431B9A070DB2EB444534023CBD2C0ABC4&dn=Ataque.dos.Tit%C3%A3s.Completo.2014.720p-&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<title>[COLOR white] Shingeki no Kyojin [B][/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Shingeki%20No%20Kyojin%20c</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSctyYHNUQJqniZ06VOzi1rPlPp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7AEUC2o3q0uZA0VF8xbFmAvqTSY.jpg</fanart>
 <info>Há várias décadas atrás, a humanidade foi quase exterminada pelo súbito aparecimento de seres humanoides, conhecido como Titãs</info>
 </item>
 
-<item>
-<title>[COLOR white] 2 temporada completa[B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c8d8d7b55b72979057bf63e9e1633b4aa118200&dn=%5BErai-raws%5D%20Shingeki%20no%20Kyojin%20S2%20-%2001~12%20%5B720p%5D%5BMultiple%20Subtitle%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSctyYHNUQJqniZ06VOzi1rPlPp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7AEUC2o3q0uZA0VF8xbFmAvqTSY.jpg</fanart>
-<info>Há várias décadas atrás, a humanidade foi quase exterminada pelo súbito aparecimento de seres humanoides, conhecido como Titãs</info>
-</item>
-
-<item>
-<title>[COLOR white] 3 temporada completa[B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47259a5fffc438310742706674ae69aedf67b0f2&dn=%5BErai-raws%5D%20Shingeki%20no%20Kyojin%20Season%203%20-%2001%20~%2012%20%5B720p%5D%5BAVC-YUV444P10%5D%5BMultiple%20Subtitle%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSctyYHNUQJqniZ06VOzi1rPlPp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7AEUC2o3q0uZA0VF8xbFmAvqTSY.jpg</fanart>
-<info>Há várias décadas atrás, a humanidade foi quase exterminada pelo súbito aparecimento de seres humanoides, conhecido como Titãs</info>
-</item>
-
-<item>
-<title>[COLOR white]Shingeki no Kyojin Live Action[B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3124E90ABCDF036042BA619CEF08506093A49205&dn=Shingeki%20no%20kyojin%20Live%20Action%202015%20%28720p%29%20%5brich_jc%5d&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.nyaatorrents.info%3a6544%2fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSctyYHNUQJqniZ06VOzi1rPlPp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7AEUC2o3q0uZA0VF8xbFmAvqTSY.jpg</fanart>
-<info>Há várias décadas atrás, a humanidade foi quase exterminada pelo súbito aparecimento de seres humanoides, conhecido como Titãs</info>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Dragon Ball classico[/B][/COLOR]</name>****************************
  
- 
+
+
 <item>
-<title>[COLOR white] episodio 001 ao 075 [B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4F67AFD7BB0A6973513873556C64182D4537654&dn=Dragon%20Ball%20%5bEpis%c3%b3dio%2001%20ao%2075%5d</link>
+<title>[COLOR white] dragon ball classico [B][/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/dragon%20ball%20classico%20c</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFEdH9qtmecGInK5pGSfA980K0B.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/naxWSD4XubEex8lJuAHGqtqgelE.jpg</fanart>
 <info>dragon Ball conta história de goku um garoto muito forte e muito ingênuo com uma estranha cauda. Ele vive sozinho numa montanha desde a morte misteriosa de seu avô. Um dia uma garota chamada Bulma aparece onde goku mora em busca das Esferas do Dragão</info>
 </item>
+ 
+ 
 
-<item>
-<title>[COLOR white] episodio 076 ao 153 [B][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F2FCBB1962A8ED84ED1CDCD741657F1EFA437A4&dn=Dragon%20Ball%20%5bEpis%c3%b3dio%2076%20ao%20153%5d</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFEdH9qtmecGInK5pGSfA980K0B.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/naxWSD4XubEex8lJuAHGqtqgelE.jpg</fanart>
-<info>dragon Ball conta história de goku um garoto muito forte e muito ingênuo com uma estranha cauda. Ele vive sozinho numa montanha desde a morte misteriosa de seu avô. Um dia uma garota chamada Bulma aparece onde goku mora em busca das Esferas do Dragão</info>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Dragon Ball Z COMPLETO [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Dragon Ball Z A Saga dos Saiyajins[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -316,9 +241,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Dragon Ball Super - Todas as Temporadas[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] Dragon Ball Super  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -330,9 +252,7 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Dragon Ball GT Completo[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B] Dragon Ball GT  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -345,13 +265,11 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]FILMES DRAGON BALL[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]TODOS FILMES[/B][/COLOR]</title>
+<title>[COLOR white][B]TODOS FILMES DRAGON BALL[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F16A9EEF91A06CF70AF8F93D63A4F757BFD3611&dn=Dragon%20Ball%20Z%20-%20Pack%20Filmes%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg</fanart>
@@ -359,9 +277,6 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Fry o Pequeno Guerreiro [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Fly: O Pequeno Guerreiro [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -371,9 +286,7 @@
 <info>Fly sonha em ser um heroi mas sua primeira aventura começa quando seu amigo Gome é seguestrado (o Gome é um monstrinho em forma de gota amarela com asas). Pela sua coragem o Rei torna o Fly cavaleiro e mais tarde na ilha ele recebe a princesa Leona de papunika para uns treinamentos de guerreiro, porem foi uma cilada criada. Por pessoas inescrupulosas que queriam matar Leona e possuir o trono de seu pai. Neste momento descobrimos uma marca na testa de fly quando ele libera um misterioso poder o que pode significar que ele seja um descendente do clã dos dragões.</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]ovas naruto[/B][/COLOR]</name>****************************
+
  
  
 <item>
@@ -395,9 +308,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Digimon 1 a 5 Temporada[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Digimon[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -409,9 +319,7 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Yu-Gi-Oh! 1 a 7 Temporada[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Yu-Gi-Oh![/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -424,9 +332,6 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Yu-Gi-Oh! GX - Completo[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Yu-Gi-Oh! GX [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -438,9 +343,7 @@
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Pokemon Todas as Temporadas –(1997-2003) [/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Pokemon[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
