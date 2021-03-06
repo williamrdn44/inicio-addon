@@ -1,36 +1,28 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FE9E04689CD7F08E267A5275E45C489273CD97F</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/81bLFcFxBDL._AC_SL1500_.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E787834BB915992C1EDF102EF917D1D4F63DCF0D</link>
 <thumbnail>https://media.fstatic.com/2fot9CxFyfxx1emYoc6ULczI4-8=/fit-in/290x478/smart/media/movies/covers/2018/08/castlevania-season-2.png</thumbnail>
 <fanart>https://media.fstatic.com/2fot9CxFyfxx1emYoc6ULczI4-8=/fit-in/290x478/smart/media/movies/covers/2018/08/castlevania-season-2.png</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]3 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9292EC07131E0E89FD6EA557679103CD5B638F8E</link>
 <thumbnail>https://cdn.ome.lt/ITF2bREHP4UiT_0lGom1liIeNs0=/1200x630/smart/extras/conteudos/EP8zs7EVUAAgul2.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/ITF2bREHP4UiT_0lGom1liIeNs0=/1200x630/smart/extras/conteudos/EP8zs7EVUAAgul2.jpg</fanart>
