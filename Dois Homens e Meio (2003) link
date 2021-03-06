@@ -1,36 +1,26 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0009d498824e89a27d890a13d62434d6d6cdc16</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
- 
+
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66736ea0dbeb51e4e2cd0c86b8542a2a92cb8c07</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]3 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d1536e9fd33aebfbf5be38a966101cc2c95f38</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
@@ -38,117 +28,89 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]4  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]4 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e943b077d85c68fcaa168d1912ed23b0d3141fe</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]5  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]5 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd6eaa8f3e45a0c9de4b13237d685043dcbb4338</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]6  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]6 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5bca63db6cf00bc54ecee92ec6141d6e4680fd3</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]7  Temporada[/B][/COLOR]</name>****************************
- 
- 
+
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]7 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49c89d55a7df63523631f4baf54b665f158eb555</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]8  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]8 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5091c7ec31fdf00e3934fc375d076339c33c79</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]9  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]9 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b8f93c0820c24f477d47376bf5af805dbd19539</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]10  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]10 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7005a9252f14e1e11ea68c076759e74e3140a09</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]11  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]11 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40D9766615535E3426381A0B3D886EBB4FB95568&dn=Dois%20Homens%20e%20Meio%20-%2011%c2%aa%20Temporada%20%282014%29%20Dual%20%c3%81udio%20720p%20%2b%20Legendas%20%28By-AZTORRENTS.NET%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
 <info></info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]12  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]12 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfbaeae734b9374f8cd9678117656c224cf3db46</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xelYee3gb9FwnQ2rVE9mnj3sNAl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/27cshLy9anL9G0g6tBQjWkPACx5.jpg</fanart>
