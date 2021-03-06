@@ -1,7 +1,4 @@
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Mundo Bita[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Bita e o Nosso Mundo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -12,13 +9,10 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Pokémon Temporada Completa(1997 a 2003)[/B][/COLOR]</name>****************************
 
 
 <item>
-<title>[COLOR silver][B]Pokémon [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Pokémon temporada compketa (1997 - 2003)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C42DF7476A49C0CCE2E0D34D9959ADC715377E97</link>
 <thumbnail>https://observatoriodegames.uol.com.br/wp-content/uploads/2020/06/kit-especial-pokemon-go-personalizados-pokemon.jpg</thumbnail>
 <fanart>https://observatoriodegames.uol.com.br/wp-content/uploads/2020/06/kit-especial-pokemon-go-personalizados-pokemon.jpg</fanart>
@@ -27,9 +21,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]MegaMan[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]MegaMan (1994)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -41,9 +33,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]MegaMan NT[/B][/COLOR]</name>**************************** 
 
 <item>
 <title>[COLOR silver][B]MegaMan NT Warrior (2002)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -55,9 +44,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Bem 10 2005 a 2008[/B][/COLOR]</name>****************************
+
 
 
 <item>
@@ -68,78 +55,17 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 <info> Aos 10 anos de idade, Benjamin Kirby Tennyson descobre um dispositivo alienígena na floresta chamado de Omnitrix, que lhe permite se transformar em 10 diferentes espécies alienígenas. Ao longo de suas férias de verão, viajando o país num trailer com seu avô Max e de sua prima Gwen, Ben luta contra o crime e alienígenas do mal com seus novos poderes, adquirindo a capacidade de se transformar em mais nove novos alienígenas ao longo do caminho..</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Liga da Justiça Sem Limites[/B][/COLOR]</name>****************************
+
 
 
 <item>
-<title>[COLOR silver][B]1 a 5 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135ADA9CEC2CDDB47C2188C3AAD4568E9A6B5AC</link>
+<title>[COLOR silver][B]liga da justiça sem limites  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/liga%20da%20justi%C3%A7a%20sem%20limites</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w300/6jez68CyMiwTSS07ls3MGSfjlEr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w300/6jez68CyMiwTSS07ls3MGSfjlEr.jpg</fanart>
 <info> Liga da Justiça sem Limites (no original em inglês: Justice League Unlimited) é uma série animada, produção conjunta da Warner Bros. e da DC Comics, e sucedeu ao desenho Liga da Justiça. É a série animada em que aparece a maior diversidade de personagens da DC Comics, e até membros obscuros como Vigilante e Gavião Negro fazem suas primeiras aparições fora dos quadrinhos.</info>
 </item>
 
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]X-Men Classico[/B][/COLOR]</name>****************************
-
- 
-<item>
-<title>[COLOR silver][B]1 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac6919fa62429a669f0cb91f83f3d177346b4ddd</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</thumbnail>
-<fanart>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</fanart>
-<info>X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período..</info>
-</item>
-
-
- 
-<item>
-<title>[COLOR silver][B]2 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdc1c09dc56420cf4a2e01795dcaba6ea8ddde8</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</thumbnail>
-<fanart>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</fanart>
-<info>X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período..</info>
-</item>
-
-
-
-<item>
-<title>[COLOR silver][B]3 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02ba2ad78e1f9f5f2d335e9b47c485cae4169544</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</thumbnail>
-<fanart>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</fanart>
-<info>X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período..</info>
-</item>
-
-
-<item>
-<title>[COLOR silver][B]4 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc06adfe36b9489e83041141e4a1a06c27dc49c</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</thumbnail>
-<fanart>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</fanart>
-<info>X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período..</info>
-</item>
-
-
-
-<item>
-<title>[COLOR silver][B]5 Temporada  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7e1095d1f8cb952ae2094082531904fbc41c818</link>
-<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</thumbnail>
-<fanart>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/x-men-classico-anos-90_MLB-F-3267764298_102012-724x1024.jpg</fanart>
-<info>X-Men Animated Series, ou somente, X-Men, é um desenho animado baseada nos X-Men. Criado em 1992, exibido na FOX1 e produzido por Larry Houston, a série trouxe uma das mais conhecidas formações dos X-Men: Ciclope, Wolverine, Tempestade, Professor Xavier, Gambit, Vampira, Fera, Jubileu e Jean Grey. O desenho fez um sucesso incrível na época, e foi o desenho de maior exibição na Fox. O desenho fala muito sobre racismo, intolerância e religião. Além disso, uma das marcas registradas da série é o famoso tema dos X-Men, composto do Michael Kamen. A série durou 5 temporadas, com um total de 76 episódios, encerrando em 1997. No Brasil, foi exibida na edição de sábado da TV Globinho até o mesmo ser substituído pelo programa TV Xuxa. A série voltou a ser exibida na TV Globinho diária por um curto período..</info>
-</item>
-
-
-
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Super Choque [/B][/COLOR]</name>****************************
 
 
 
@@ -151,75 +77,20 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 <info>Static Shock (no Brasil, Super Choque) é uma série animada produzida pela Warner Bros. Television, tendo estreado em Setembro de 2001 no canal norte-americano The WB, ..</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Bob Esponja [/B][/COLOR]</name>****************************
-
 
 
 <item>
-<title>[COLOR silver][B]1 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a18c34429dfbfe81ce2093edbcdeeac19cdad71b</link>
+<title>[COLOR silver][B]bob esponja [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/bob%20esponja%20tempo</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/27/SpongeBob_S1.jpg/250px-SpongeBob_S1.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/2/27/SpongeBob_S1.jpg/250px-SpongeBob_S1.jpg</fanart>
 <info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
 </item>
 
 
-<item>
-<title>[COLOR silver][B]2 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cab6ad234ca2ffd6360ac3163c57c773a21a83</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/SpongeBob_S2.jpg/250px-SpongeBob_S2.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/SpongeBob_S2.jpg/250px-SpongeBob_S2.jpg</fanart>
-<info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
-</item>
-
 
 <item>
-<title>[COLOR silver][B]3 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0717565554862e170060d97867cc21457452445</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/88/SpongeBob_S3.jpg/250px-SpongeBob_S3.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/8/88/SpongeBob_S3.jpg/250px-SpongeBob_S3.jpg</fanart>
-<info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
-</item>
-
-
-<item>
-<title>[COLOR silver][B]4 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fde2adf275b4dc89d3426656bf70785641850af1</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/SpongeBob_S4.jpg/250px-SpongeBob_S4.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/SpongeBob_S4.jpg/250px-SpongeBob_S4.jpg</fanart>
-<info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
-</item>
-
-
-<item>
-<title>[COLOR silver][B]5 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d95d3c07eb789789df8bb0885b0ce739f17b3cc2</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/36/SpongeBob_S5.jpg/250px-SpongeBob_S5.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/36/SpongeBob_S5.jpg/250px-SpongeBob_S5.jpg</fanart>
-<info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
-</item>
-
-
-
-<item>
-<title>[COLOR silver][B]6 Temporada [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8554b4f15213d2f9f9a3b38d8257a8a95b48bc5</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SpongeBob_S6.jpg/250px-SpongeBob_S6.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SpongeBob_S6.jpg/250px-SpongeBob_S6.jpg</fanart>
-<info>Bob Esponja Calça Quadrada é uma esponja do mar que mora em uma casa de abacaxi. Junto ao melhor amigo, Patrick Estrela, ele sempre tira a paciência do vizinho Lula Molusco. Bob Esponja trabalha no Siri Cascudo, para o Sr. Sirigueijo, fazendo os famosos hambúrgueres de siri.</info>
-</item>
-
-
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]O Laboratório de Dexter[/B][/COLOR]</name>****************************
-
-
-<item>
-<title>[COLOR silver][B]Completo ( 1996 - 2003 )  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]laboratorio de dexterCompleto ( 1996 - 2003 )  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEB8EBC1A90F9B4B23D2B537F1E8053CF993EA85</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w300/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg</fanart>
@@ -228,13 +99,11 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Os Flintstones[/B][/COLOR]</name>****************************
+
 
 
 <item>
-<title>[COLOR silver][B]1 a 6 Temporada[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Os Flintstones 1 a 6 Temporada[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0B046E354EA8CFA806BF768E49FDC8E27556389</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/933AdkIKKz0PcBIYTTaLTLY7wrv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w300/933AdkIKKz0PcBIYTTaLTLY7wrv.jpg</fanart>
@@ -242,9 +111,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Astro Boy – Completo[/B][/COLOR]</name>****************************
+
 
 
 <item>
@@ -256,9 +123,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Speed Racer[/B][/COLOR]</name>****************************
+
 
 
 <item>
@@ -271,9 +136,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Josie e as Gatinhas do Espaço[/B][/COLOR]</name>****************************
+
 
 
 
@@ -286,9 +149,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Super Galo[/B][/COLOR]</name>****************************
+
 
 
 
@@ -302,9 +163,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Karatê Kid – Série Animada[/B][/COLOR]</name>****************************
+
 
 
 
@@ -318,9 +177,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Space Goofs[/B][/COLOR]</name>****************************
 
 
 
@@ -335,11 +191,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]A Formiga Atômica [/B][/COLOR]</name>****************************
-
-
 
 <item>
 <title>[COLOR silver][B]A Formiga Atômica – Completo( 1965 )[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -352,9 +203,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Os Impossíveis [/B][/COLOR]</name>****************************
 
 
 
@@ -368,9 +216,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Pingu [/B][/COLOR]</name>****************************
 
 
 
@@ -384,9 +229,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Pequena Sereia – A Série Animada[/B][/COLOR]</name>****************************
+
 
 
 
@@ -401,11 +244,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Ligeirinho[/B][/COLOR]</name>****************************
-
-
 
 <item>
 <title>[COLOR silver][B]Ligeirinho –( 1955 )[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -417,10 +255,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]turma da monica[/B][/COLOR]</name>****************************
 
 
 
@@ -453,9 +287,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]PJ Masks - Heróis de Pijama (2015)[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]PJ Masks  Momentos dos Heróis[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -493,9 +324,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Flash Gordon (1980)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -505,9 +334,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 <info>O auto-intitulado imperador do Universo, o imperador do planeta Mongo, Ming (Max Von Sydow) planeja destruir a Terra por meio de seus artifícios tecnológicos.</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Jonny Quest (1964)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -518,12 +345,10 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Taz-Mania (1991)[/B][/COLOR]</name>****************************
+
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Taz-Mania (1991) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9446b9bcfbb29c517be27a514529e40e5abff638&dn=hidratorrent.com%20-%20Taz-Mania&tr=https%3a%2f%2ftracker.fastdownload.xyz%3a443%2fannounce&tr=http%3a%2f%2fgwp2-v19.rinet.ru%3a80%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=https%3a%2f%2ftracker.bt-hash.com%3a443%2fannounce&tr=udp%3a%2f%2fzephir.monocul.us%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2fgrifon.info%3a80%2fannounce&tr=http%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=http%3a%2f%2ftracker.ipv6tracker.ru%3a80%2fannounce&tr=http%3a%2f%2ftracker.moxing.party%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.kicks-ass.net%3a80%2fannounce&tr=udp%3a%2f%2fsantost12.xyz%3a6969%2fannounce&tr=https%3a%2f%2ftracker.parrotsec.org%3a443%2fannounce&tr=http%3a%2f%2ftr.kxmp.cf%3a80%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHEFGrDzaGiuGDPFc0wGKjmP8H.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kWwj7gNJsnd5ocTRvlmEznaB8wG.jpg</fanart>
@@ -531,12 +356,10 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Hey Arnold! (1996)[/B][/COLOR]</name>****************************
+
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Hey Arnold! (1996) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1D613EB407D3EDB9A9B768E417941CC275135FE&dn=torrentoon.com%20-%20HeyArnold%20-%20Parte-1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kuwpxs2AWzQn0UDiWBsGUA9ySIS.jpg</fanart>
@@ -545,24 +368,19 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Os Sete Monstrinhos (2000)[/B][/COLOR]</name>****************************
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Os Sete Monstrinhos (2000) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE888F270C296E91E33469BF3136AAF7E41D31C3&dn=hidratorrent.com%20-%20Os%20Sete%20Monstrinhos%20-%20Completo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/do6EdLwDshY6cfxVOIZCwRmzY9U.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/do6EdLwDshY6cfxVOIZCwRmzY9U.jpg</fanart>
 <info>Seven Little Monsters é um programa de televisão infantil chinês-canadense. É sobre uma família de sete monstros e sua mãe.</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Capitão Caverna e as Panterinhas (1977)[/B][/COLOR]</name>****************************
+
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Capitão Caverna e as Panterinhas (1977) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC9632E32E8AE1C6E8DE9A2B76F46F55C16587F1&dn=hidratorrent.com%20-%20Capit%c3%a3o%20Caverna%20e%20as%20Panterinhas&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/T6LdCPGVDJxtHoWACHyWUZws7C.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zpBS3XXhF2GvFAwNLO8AaKDv1DR.jpg</fanart>
@@ -570,12 +388,9 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]O Show do Zé Colmeia (1961)[/B][/COLOR]</name>****************************
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]O Show do Zé Colmeia (1961) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:905804438c888b320009f5c90cd4e0e632fd8dbd&dn=VIATORRENTS.COM%20-%20O%20Show%20do%20Ze%20Colmeia%20-%20Completo&tr=https%3a%2f%2ftracker.fastdownload.xyz%3a443%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fzephir.monocul.us%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=http%3a%2f%2ftr.kxmp.cf%3a80%2fannounce&tr=https%3a%2f%2ftracker.bt-hash.com%3a443%2fannounce&tr=udp%3a%2f%2ftracker.kicks-ass.net%3a80%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2ftracker.moxing.party%3a6969%2fannounce&tr=http%3a%2f%2fgwp2-v19.rinet.ru%3a80%2fannounce&tr=http%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.ipv6tracker.ru%3a80%2fannounce&tr=udp%3a%2f%2fsantost12.xyz%3a6969%2fannounce&tr=http%3a%2f%2fgrifon.info%3a80%2fannounce&tr=https%3a%2f%2ftracker.parrotsec.org%3a443%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWkA0n7xnsnRzXVkWyTUPoQkI8i.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w220_and_h330_face/nWkA0n7xnsnRzXVkWyTUPoQkI8i.jpg</fanart>
@@ -584,36 +399,29 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Timão e Pumba (1995)[/B][/COLOR]</name>****************************
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Timão e Pumba (1995) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:801e1c8073aa27002627f09f67c5b266f203a90b&dn=Tim%C3%A3o+e+pumba+%28portugu%C3%AAs+Brasileiro%29&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YLDBg5iQGnYC3LeSulk9wGNgGJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3hHr74E0nur3qxC4ixtWZ1LXkn4.jpg</fanart>
 <info>Conheça a dupla Timão e Pumba, de 'O Rei leão', da vida real. A dupla Timão e Pumba, simpáticos personagens do clássico da Disney “Rei leão”</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Baby Looney Tunes (1999) [/B][/COLOR]</name>****************************
+
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Baby Looney Tunes (1999) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1251498c6088e4a65639894e414dc3ef55073e8&dn=ONDEBAIXA.COM%20-%20BabyLooneyTunes.2001.DUBLADO.MKV.1080&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=http%3a%2f%2f104.28.1.30%3a8080%2fannounce&tr=http%3a%2f%2f104.28.16.69%2fannounce&tr=udp%3a%2f%2f107.150.14.110%3a6969%2fannounce&tr=udp%3a%2f%2f109.121.134.121%3a1337%2fannounce&tr=udp%3a%2f%2f114.55.113.60%3a6969%2fannounce&tr=http%3a%2f%2f125.227.35.196%3a6969%2fannounce&tr=udp%3a%2f%2f128.199.70.66%3a5944%2fannounce&tr=http%3a%2f%2f157.7.202.64%3a8080%2fannounce&tr=http%3a%2f%2f158.69.146.212%3a7777%2fannounce&tr=http%3a%2f%2f173.254.204.71%3a1096%2fannounce&tr=http%3a%2f%2f178.175.143.27%2fannounce&tr=udp%3a%2f%2f178.33.73.26%3a2710%2fannounce&tr=udp%3a%2f%2f182.176.139.129%3a6969%2fannounce&tr=udp%3a%2f%2f185.5.97.139%3a8089%2fannounce&tr=udp%3a%2f%2f188.165.253.109%3a1337%2fannounce&tr=udp%3a%2f%2f194.106.216.222%3a80%2fannounce&tr=udp%3a%2f%2f195.123.209.37%3a1337%2fannounce&tr=http%3a%2f%2f210.244.71.25%3a6969%2fannounce&tr=http%3a%2f%2f210.244.71.26%3a6969%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6rZstZlctu5EdB3BZtoCcHmuXP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eMC8ShQ3ceUcJwm5ZlKci8a46N3.jpg</fanart>
 <info>Baby Looney Tunes é um desenho animado baseado em versões bebês dos Looney Tunes.</info>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Coragem, o Cão Covarde (1999)[/B][/COLOR]</name>****************************
+
 
 <item>
-<title>[COLOR silver][B]completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Coragem, o Cão Covarde (1999) completo[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F6DCA8E7E212BB9A6AE9BC588665080837BA6ED&dn=Coragem%20-%20O%20C%c3%a3o%20Covarde&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&ws=</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3upyO2ISjkBHuvPyYV3e8X96Fj8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/56RHP7Kzl9IXxIwEDvDa8Qm2VHm.jpg</fanart>
@@ -622,22 +430,17 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]castelo ra tim bum 1ª  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]1 temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]castelo ra tim bum 1ª  Temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ac70b4e2f9f20ec2b5a8ae9205c03ccaeb86018</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9Yo9plrovUUl8sa3UFt3Q9bxpE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</fanart>
 <info>Nino é um garoto de 300 anos que vive com seu tio, o Dr. Victor, um feiticeiro e cientista, e com sua tia-avó Morgana, uma feiticeira de 6.000 anos de idade. Os três moram num castelo no meio da cidade de São Paulo. Aprendiz de feiticeiro, Nino nunca frequentou uma escola, por causa da idade nada comum de 300 anos. Seus pais o deixaram morando com Victor e Morgana, porque precisavam viajar numa expedição no espaço sideral, levando seus dois irmãos mais novos. Apesar de ter amigos animais e sobrenaturais no Castelo, Nino, sentindo falta de amigos como ele, resolve fazer um feitiço que aprendeu com seu tio Victor, e acabou trazendo para o Castelo, três crianças que tinham acabado de sair da escola. Livre da solidão, Nino recebe a visita dos três diariamente.<info>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Phineas e Ferb: O Filme  [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Phineas e Ferb: O Filme – Através da 2ª Dimensão[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -649,9 +452,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Corrida Maluca Completa (1968)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B] Corrida Maluca  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -662,9 +463,6 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Manda Chuva Completo(1961)[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] Manda Chuva  [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -676,10 +474,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Pica Pau [/B][/COLOR]</name>****************************
-
+<
 <item>
 <title>[COLOR silver][B]Pica Pau Completo [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCDBF1BC0AA30686370F036D1F152B7260AFB15D</link>
@@ -691,9 +486,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Caverna do Dragao Completo [/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Caverna do Dragao [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -705,9 +498,7 @@ Enredo: Ash, de dez anos de idade, pretende ser o melhor treinador de Pokémon (
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]She - Ra Completo [/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]She - Ra [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -723,9 +514,6 @@ No Brasil, She-Ra foi exibido a partir de 1987 no Xou da Xuxa, onde a personagem
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] DESENHOS ANTIGOS DISNEY[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] DESENHOS DISNEY [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -738,9 +526,6 @@ No Brasil, She-Ra foi exibido a partir de 1987 no Xou da Xuxa, onde a personagem
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Os Jetsons [/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] Os Jetsons [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -752,9 +537,6 @@ No Brasil, She-Ra foi exibido a partir de 1987 no Xou da Xuxa, onde a personagem
  
  
  
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Ducktales Completo[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] Ducktales [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -767,9 +549,7 @@ No Brasil, She-Ra foi exibido a partir de 1987 no Xou da Xuxa, onde a personagem
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Pole Position Completo[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B] Pole Position [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -782,10 +562,6 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
  
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] GASPARZINHO [/B][/COLOR]</name>****************************
-
 
 
 <item>
@@ -808,9 +584,6 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Patati Patatá - Coleção[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B] Patati Patata[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -822,9 +595,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B] Galinha Pintadinha 1, 2, 3 e 4 Coleção[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Galinha Pintadinha[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -836,9 +607,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]A Turma do Charlie Brown e Snoopy(1983)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]A Turma do Charlie Brown e Snoopy[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -850,9 +619,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Looney Tunes - Pernalonga e sua Turma (1930)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Looney Tunes - Pernalonga e sua Turma[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -864,9 +631,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Popeye - Completo (1929)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]Popeye[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -877,9 +642,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]O Papa-Léguas e o Coiote(1949)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]O Papa-Léguas e o Coiote[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -892,9 +655,7 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]A Pantera Cor de Rosa (1969)[/B][/COLOR]</name>****************************
+
 
 <item>
 <title>[COLOR silver][B]A Pantera Cor de Rosa[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
@@ -906,9 +667,6 @@ Dan, Tess, Daise e seu bichinho de estimação tinham como aliados dois carros c
 
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]Tom e Jerry Coleção (1940-2004)[/B][/COLOR]</name>****************************
 
 <item>
 <title>[COLOR silver][B]Tom e Jerry[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
