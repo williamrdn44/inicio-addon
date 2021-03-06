@@ -1,10 +1,8 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dc5e4e32120c62ee0a868454cbd6bd4e57715bc</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
@@ -12,13 +10,10 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]2  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]2 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bc1d2b16139614b06dc771fb07bdf3e9edf1f0d</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
@@ -26,13 +21,10 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]3  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]3 temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f722c87be632854dfe1172371f152d714df8902</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
@@ -40,13 +32,11 @@
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]4  Temporada[/B][/COLOR]</name>****************************
+
  
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]4 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc0aed75d158a6f0fa69cdd6fe671b40da9ec149</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
