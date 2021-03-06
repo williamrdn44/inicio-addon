@@ -1,10 +1,7 @@
-<channels>
-</channels><channel>
-<name>[COLOR deeppink][B]1  Temporada[/B][/COLOR]</name>****************************
- 
+
  
 <item>
-<title>[COLOR white][B]temporada completa [/B][/COLOR]</title>
+<title>[COLOR white][B]1 temporada  [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1136580f7fe6e481e4af4b483519dd338cc130c0</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIyqVAyMQUmg0oaXh6nZoPG8Ev.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjfcLu4OXfSyieT9O7p7KDESr4M.jpg</fanart>
