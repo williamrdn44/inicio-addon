@@ -51,6 +51,13 @@
 </channel>
  
  
+<channel>
+<name>[COLOR crimson][B]DOCUMENTARIOS[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-Rwky2bvigyk/YEQbxkD9PoI/AAAAAAAAEGs/FPc4UAXHMVsnuQ3BgxdGgNo8ms8Atu5LgCLcBGAsYHQ/focumentarios.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/documentarios</externallink>
+<fanart>https://lh3.googleusercontent.com/-Rwky2bvigyk/YEQbxkD9PoI/AAAAAAAAEGs/FPc4UAXHMVsnuQ3BgxdGgNo8ms8Atu5LgCLcBGAsYHQ/focumentarios.jpg</fanart>
+</channel>
+ 
 <channels>
 <channel>
 <name>[COLOR crimson][B]CANAL RICOS[/B][/COLOR]</name>
