@@ -1,26 +1,3 @@
-def menu_donate():
-    dialog = xbmcgui.Dialog()
-    link = dialog.select('BEM VINDO AO MICO-LEAO DUBLADO!', ['[B][COLOR orange]■[/COLOR] [COLOR white]Faça uma doação e[/COLOR] [COLOR orange]Ajude a manter o addon sempre ativo![/COLOR][/B]', '[B][COLOR orange]■[/COLOR] [COLOR white]Curta nossa página no[/COLOR] [COLOR blue]Facebook[/COLOR][/B]','[B][COLOR orange]■[/COLOR] [COLOR white]Entrar no addon[/COLOR][/B]'])
-
-    if link == 0:
-        link2 = dialog.select('[B][COLOR white]DOAÇÃO PELO MERCADO PAGO[/COLOR][/B]', ['[B][COLOR white]Click aqui e escolha o valor que desejar.[/COLOR][/B]'])
-
-        if link2 == 0:
-            url = "https://sites.google.com/view/kodimicoleaodublado/in%C3%ADcio"
-            web_browser(url)
-        
-        #if link == 9:
-            
-            
-    if link == 1:
-        url = "https://www.facebook.com/micoleaodublado"
-        web_browser(url)
-
-
-
-def SKindex():
-	
-    menu_donate() #antes de tudo no sk index tem que ser esse !
 
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
