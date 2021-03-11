@@ -14,6 +14,15 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channel>
+<name>[COLOR crimson][B]TRAILER[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-q-z-txWeiCo/YEqm1dst1mI/AAAAAAAAEKA/DT4nxejrzpIbKn_gLOMtvNjVYgY779UfACLcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/TRAILER</externallink>
+<fanart>https://lh3.googleusercontent.com/-TTbph0nr3Yg/YEqmTf1uoYI/AAAAAAAAEJ4/UuNqHIZtua4-a6RANjPZKfEUzrf0bD-ZACLcBGAsYHQ/image.png</fanart>
+<info>
+</channel>
+
+
 
 <channel>
 <name>[COLOR crimson][B]FILMES[/B][/COLOR]</name>
