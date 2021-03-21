@@ -39,7 +39,7 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/inidice%20seriados</externallink>
 <fanart>https://images2.imgbox.com/d7/95/gWmVIV7c_o.jpg</fanart>
 <info>[COLOR darkblue][B]SERIES ATUALIZADAS E ADICIONADAS[/B][/COLOR]
- [COLOR darkblue][B]ADICIONADA: FALCÃO NEGRO (LANÇAMENTO) [COLOR darkblue][B]   
+ [COLOR blue][B]ADICIONADA: FALCÃO NEGRO (LANÇAMENTO) [COLOR blue][B]   
  <info>
 </channel>
  
