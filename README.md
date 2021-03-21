@@ -4,11 +4,11 @@
 <thumbnail>https://images2.imgbox.com/e6/48/uhDVCmkK_o.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://images2.imgbox.com/d7/24/XX3bQKmR_o.jpg</fanart>
-<info>FILMES NOVOS TODA SEMANA!! PARA PODER DESFRUTAR DO NOSSO CONTEUDO INSTALE O ELEMENTUM E PLUGIN YOUTUBE !!<info>
+<info>FILMES NOVOS TODA SEMANA!! PARA PODER DESFRUTAR DO NOSSO CONTEUDO INSTALE O ELEMENTUM E PLUGIN YOUTUBE !!</info>
 
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+
 </channel>
 </channels>
 
@@ -40,7 +40,7 @@
 <fanart>https://images2.imgbox.com/d7/95/gWmVIV7c_o.jpg</fanart>
 <info>[COLOR darkblue][B]SERIES ATUALIZADAS E ADICIONADAS[/B][/COLOR]
  [COLOR blue][B]ADICIONADA: FALCÃO NEGRO (LANÇAMENTO) [COLOR blue][B]   
- <info>
+ </info>
 </channel>
  
  
