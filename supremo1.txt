@@ -1,1 +1,1 @@
-url="https://williamrdn4.inrupt.net/public/supremo1.db"
+url="https://archive.org/download/supremo1/supremo1.db"
