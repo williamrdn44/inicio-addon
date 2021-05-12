@@ -1,4 +1,4 @@
-url="https://archive.org/download/supremo1_20210511_2343/supremo1.db"
+url="https://archive.org/download/supremo2/supremo2.db"
 
 
 
