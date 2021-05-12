@@ -1,4 +1,4 @@
-url="https://archive.org/download/supremo8/supremo8.db"
+url="https://archive.org/download/supremonovo/supremonovo.db"
 
 
 
