@@ -8,21 +8,6 @@
 
 
 
-
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channel>
-<name>[COLOR crimson][B]IPTV DO SUPREMO[/B][/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/-0mrEor6pJcg/YIhwT36Xg2I/AAAAAAAAEgk/hVsXemtkvvgsF2eIXDp2O-5YnhacaUeCQCLcBGAsYHQ/unnamed.jpg</thumbnail>
-<fanart>https://lh3.googleusercontent.com/-0mrEor6pJcg/YIhwT36Xg2I/AAAAAAAAEgk/hVsXemtkvvgsF2eIXDp2O-5YnhacaUeCQCLcBGAsYHQ/unnamed.jpg</fanart>
-<info>[COLOR darkblue][B] CANSADO DE CANAIS TRAVANDO NO KODI ? VEM PRO IPTV DO SUPREMO COM O MELHOR SUPORTE E MELHOR PREÇO JUSTO  WHATS 55 991 8839 75 [/B][/COLOR]</info>
-</channel>
-
-
-
 <channel>
 <name>[COLOR crimson][B]TRAILER[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-q-z-txWeiCo/YEqm1dst1mI/AAAAAAAAEKA/DT4nxejrzpIbKn_gLOMtvNjVYgY779UfACLcBGAsYHQ/image.png</thumbnail>
