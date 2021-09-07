@@ -1,9 +1,9 @@
 
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
-<thumbnail>https://lh3.googleusercontent.com/-2orNXcooaWM/YTexJpS0SxI/AAAAAAAAEpo/1REKBu3QBvA4p-mTixh-aAftcHkX2Ii1wCLcBGAsYHQ/image.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-U1MVPBkMSDQ/YTe0h19rG2I/AAAAAAAAEpw/BFekjG0_uV4bd3xXxxIKvi3pwwrqxYSYQCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://lh3.googleusercontent.com/-2orNXcooaWM/YTexJpS0SxI/AAAAAAAAEpo/1REKBu3QBvA4p-mTixh-aAftcHkX2Ii1wCLcBGAsYHQ/image.png</fanart>
+<fanart>https://lh3.googleusercontent.com/-3mDHlw6mhZE/YTewFCMs5hI/AAAAAAAAEpY/FIRQyTnVT_Alg0exSfZAzkO9YDC3H5-zQCLcBGAsYHQ/image.png</fanart>
 </channel>
 
 <channel>
