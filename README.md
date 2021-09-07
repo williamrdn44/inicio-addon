@@ -1,12 +1,19 @@
 
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
-<thumbnail>https://images2.imgbox.com/e6/48/uhDVCmkK_o.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-2orNXcooaWM/YTexJpS0SxI/AAAAAAAAEpo/1REKBu3QBvA4p-mTixh-aAftcHkX2Ii1wCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://lh3.googleusercontent.com/-3mDHlw6mhZE/YTewFCMs5hI/AAAAAAAAEpY/FIRQyTnVT_Alg0exSfZAzkO9YDC3H5-zQCLcBGAsYHQ/image.png</fanart>
-<info>FILMES NOVOS TODA SEMANA!! PARA PODER DESFRUTAR DO NOSSO CONTEUDO INSTALE O ELEMENTUM E PLUGIN YOUTUBE !!</info>
+<fanart>https://lh3.googleusercontent.com/-2orNXcooaWM/YTexJpS0SxI/AAAAAAAAEpo/1REKBu3QBvA4p-mTixh-aAftcHkX2Ii1wCLcBGAsYHQ/image.png</fanart>
+<info>VENHA DESFRUTAR DO NOSSO SERVIDOR DE P2P TODOS OS CANAIS LIBERADOS EXELENTE QUALIDADE 
+ Está no tédio e deseja um pouco de entretenimento? Então você está no lugar certo! Com apenas 1 clique você pode conferir tudo sobre os nossos serviços! Ficou curioso? whats 55 991 88 3975</info>
 
-
+<channel>
+<name>[COLOR crimson][B]IPTV DO SUPREMO[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-PzrDrVHORz0/YTew23M-NVI/AAAAAAAAEpg/HO2x8Wlbh4syiZv9befrBnct9IXZ2GUVgCLcBGAsYHQ/image.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-TTbph0nr3Yg/YEqmTf1uoYI/AAAAAAAAEJ4/UuNqHIZtua4-a6RANjPZKfEUzrf0bD-ZACLcBGAsYHQ/image.png</fanart>
+<info>
+</channel>
+ 
 
 <channel>
 <name>[COLOR crimson][B]TRAILER[/B][/COLOR]</name>
