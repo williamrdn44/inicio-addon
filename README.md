@@ -3,7 +3,7 @@
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
 <thumbnail>https://images2.imgbox.com/e6/48/uhDVCmkK_o.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://images2.imgbox.com/d7/24/XX3bQKmR_o.jpg</fanart>
+<fanart>https://lh3.googleusercontent.com/-3mDHlw6mhZE/YTewFCMs5hI/AAAAAAAAEpY/FIRQyTnVT_Alg0exSfZAzkO9YDC3H5-zQCLcBGAsYHQ/image.png</fanart>
 <info>FILMES NOVOS TODA SEMANA!! PARA PODER DESFRUTAR DO NOSSO CONTEUDO INSTALE O ELEMENTUM E PLUGIN YOUTUBE !!</info>
 
 
