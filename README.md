@@ -43,7 +43,7 @@
 <channel>
 <name>[COLOR crimson][B]KIDS[/B][/COLOR]</name>
 <thumbnail>https://images2.imgbox.com/d0/2a/RY8ULm0P_o.jpg</thumbnail>
-<externallink>https://github.com/deniskodi/supremo/blob/main/kids</externallink>
+<externallink>https://raw.githubusercontent.com/deniskodi/supremo/main/kids</externallink>
 <fanart>https://images2.imgbox.com/d7/24/XX3bQKmR_o.jpg</fanart>
 </channel>
 
